@@ -1,0 +1,5001 @@
+Patient Id,Outcome,Ethnicity
+1,Not recovered,Hispanic
+2,Recovered,Asian
+3,Recovered,Asian
+4,Not recovered,Latino
+5,Recovering,Caucasian
+6,Recovered,Asian
+7,Recovering,Caucasian
+8,Not recovered,Hispanic
+9,Unknown,Hispanic
+10,Recovering,Hispanic
+11,Recovered,Caucasian
+12,Not recovered,Black
+13,Recovering,Asian
+14,Recovering,Hispanic
+15,Unknown,Asian
+16,Recovered,Asian
+17,Unknown,Latino
+18,Unknown,Caucasian
+19,Unknown,Asian
+20,Not recovered,Caucasian
+21,Recovering,Hispanic
+22,Recovering,Hispanic
+23,Not recovered,Hispanic
+24,Recovered,Caucasian
+25,Recovered,Black
+26,Not recovered,Asian
+27,Not recovered,Hispanic
+28,Not recovered,Asian
+29,Not recovered,Asian
+30,Not recovered,Latino
+31,Not recovered,Caucasian
+32,Not recovered,Asian
+33,Recovering,Caucasian
+34,Not recovered,Hispanic
+35,Recovered,Hispanic
+36,Recovered,Hispanic
+37,Not recovered,Caucasian
+38,Recovering,Black
+39,Recovered,Asian
+40,Recovering,Hispanic
+41,Not recovered,Asian
+42,Unknown,Asian
+43,Recovering,Latino
+44,Recovered,Caucasian
+45,Not recovered,Asian
+46,Recovering,Caucasian
+47,Recovering,Hispanic
+48,Unknown,Hispanic
+49,Recovered,Hispanic
+50,Unknown,Caucasian
+51,Unknown,Black
+52,Unknown,Asian
+53,Not recovered,Hispanic
+54,Recovering,Asian
+55,Recovering,Asian
+56,Not recovered,Latino
+57,Recovered,Caucasian
+58,Recovered,Asian
+59,Not recovered,Caucasian
+60,Not recovered,Hispanic
+61,Not recovered,Hispanic
+62,Not recovered,Caucasian
+63,Not recovered,Asian
+64,Not recovered,Caucasian
+65,Not recovered,Hispanic
+66,Recovering,Hispanic
+67,Not recovered,Hispanic
+68,Recovered,Caucasian
+69,Recovered,Black
+70,Not recovered,Asian
+71,Recovering,Hispanic
+72,Recovered,Asian
+73,Recovering,Asian
+74,Not recovered,Latino
+75,Unknown,Caucasian
+76,Recovering,Asian
+77,Recovered,Caucasian
+78,Not recovered,Hispanic
+79,Recovering,Hispanic
+80,Recovering,Caucasian
+81,Unknown,Asian
+82,Recovered,Caucasian
+83,Unknown,Hispanic
+84,Unknown,Hispanic
+85,Unknown,Hispanic
+86,Not recovered,Caucasian
+87,Recovering,Black
+88,Recovering,Asian
+89,Not recovered,Hispanic
+90,Recovered,Asian
+91,Recovered,Asian
+92,Not recovered,Latino
+93,Not recovered,Caucasian
+94,Not recovered,Asian
+95,Not recovered,Caucasian
+96,Not recovered,Hispanic
+97,Not recovered,Hispanic
+98,Not recovered,Caucasian
+99,Recovering,Asian
+100,Not recovered,Caucasian
+101,Recovered,Hispanic
+102,Recovered,Hispanic
+103,Not recovered,Hispanic
+104,Recovering,Caucasian
+105,Recovered,Black
+106,Recovering,Asian
+107,Not recovered,Caucasian
+108,Unknown,Black
+109,Recovering,Asian
+110,Recovered,Hispanic
+111,Not recovered,Asian
+112,Recovering,Asian
+113,Recovering,Latino
+114,Unknown,Caucasian
+115,Recovered,Asian
+116,Unknown,Caucasian
+117,Unknown,Hispanic
+118,Unknown,Hispanic
+119,Not recovered,Caucasian
+120,Recovering,Asian
+121,Recovering,Caucasian
+122,Not recovered,Hispanic
+123,Recovered,Hispanic
+124,Recovered,Hispanic
+125,Not recovered,Caucasian
+126,Not recovered,Black
+127,Not recovered,Asian
+128,Not recovered,Caucasian
+129,Not recovered,Black
+130,Not recovered,Asian
+131,Not recovered,Hispanic
+132,Recovering,Asian
+133,Not recovered,Asian
+134,Recovered,Latino
+135,Recovered,Caucasian
+136,Not recovered,Asian
+137,Recovering,Caucasian
+138,Recovered,Hispanic
+139,Recovering,Hispanic
+140,Not recovered,Caucasian
+141,Unknown,Asian
+142,Recovering,Caucasian
+143,Recovered,Hispanic
+144,Not recovered,Hispanic
+145,Recovering,Hispanic
+146,Recovering,Caucasian
+147,Unknown,Black
+148,Not recovered,Asian
+149,Not recovered,Caucasian
+150,Not recovered,Black
+151,Not recovered,Asian
+152,Not recovered,Hispanic
+153,Recovering,Asian
+154,Not recovered,Caucasian
+155,Recovered,Black
+156,Recovered,Asian
+157,Not recovered,Caucasian
+158,Recovering,Black
+159,Recovered,Asian
+160,Recovering,Hispanic
+161,Not recovered,Asian
+162,Unknown,Asian
+163,Recovering,Latino
+164,Recovered,Caucasian
+165,Not recovered,Asian
+166,Recovering,Caucasian
+167,Recovering,Hispanic
+168,Unknown,Hispanic
+169,Not recovered,Caucasian
+170,Not recovered,Asian
+171,Not recovered,Caucasian
+172,Not recovered,Hispanic
+173,Not recovered,Hispanic
+174,Recovering,Hispanic
+175,Not recovered,Caucasian
+176,Recovered,Black
+177,Recovered,Asian
+178,Not recovered,Caucasian
+179,Recovering,Black
+180,Recovered,Asian
+181,Recovering,Hispanic
+182,Not recovered,Asian
+183,Unknown,Caucasian
+184,Recovering,Black
+185,Recovered,Asian
+186,Not recovered,Caucasian
+187,Recovering,Black
+188,Recovering,Asian
+189,Unknown,Hispanic
+190,Not recovered,Asian
+191,Not recovered,Asian
+192,Not recovered,Latino
+193,Recovering,Caucasian
+194,Not recovered,Asian
+195,Recovered,Caucasian
+196,Recovered,Hispanic
+197,Not recovered,Hispanic
+198,Recovering,Caucasian
+199,Recovered,Asian
+200,Recovering,Caucasian
+201,Not recovered,Hispanic
+202,Unknown,Hispanic
+203,Recovering,Hispanic
+204,Recovered,Caucasian
+205,Not recovered,Black
+206,Recovering,Asian
+207,Recovering,Caucasian
+208,Unknown,Black
+209,Not recovered,Asian
+210,Not recovered,Hispanic
+211,Not recovered,Asian
+212,Recovering,Caucasian
+213,Not recovered,Black
+214,Recovered,Asian
+215,Recovered,Caucasian
+216,Not recovered,Black
+217,Recovering,Asian
+218,Recovered,Hispanic
+219,Recovering,Asian
+220,Not recovered,Asian
+221,Unknown,Latino
+222,Recovering,Caucasian
+223,Recovered,Asian
+224,Not recovered,Caucasian
+225,Recovering,Hispanic
+226,Recovering,Hispanic
+227,Unknown,Caucasian
+228,Not recovered,Asian
+229,Not recovered,Caucasian
+230,Not recovered,Hispanic
+231,Recovering,Hispanic
+232,Not recovered,Hispanic
+233,Recovered,Caucasian
+234,Recovered,Black
+235,Not recovered,Asian
+236,Recovering,Caucasian
+237,Recovered,Black
+238,Recovering,Asian
+239,Not recovered,Hispanic
+240,Not recovered,Asian
+241,Recovered,Caucasian
+242,Recovered,Black
+243,Not recovered,Asian
+244,Recovering,Caucasian
+245,Recovered,Black
+246,Recovering,Asian
+247,Not recovered,Hispanic
+248,Unknown,Asian
+249,Recovering,Asian
+250,Recovered,Latino
+251,Not recovered,Caucasian
+252,Recovering,Asian
+253,Recovering,Caucasian
+254,Unknown,Hispanic
+255,Not recovered,Hispanic
+256,Not recovered,Caucasian
+257,Not recovered,Asian
+258,Recovering,Caucasian
+259,Not recovered,Hispanic
+260,Recovered,Hispanic
+261,Recovered,Hispanic
+262,Not recovered,Caucasian
+263,Recovering,Black
+264,Recovered,Asian
+265,Recovering,Caucasian
+266,Not recovered,Black
+267,Unknown,Asian
+268,Recovering,Hispanic
+269,Recovered,Asian
+270,Not recovered,Caucasian
+271,Recovering,Black
+272,Recovering,Asian
+273,Unknown,Caucasian
+274,Not recovered,Black
+275,Not recovered,Asian
+276,Not recovered,Hispanic
+277,Recovering,Asian
+278,Not recovered,Asian
+279,Recovered,Latino
+280,Recovered,Caucasian
+281,Not recovered,Asian
+282,Recovering,Caucasian
+283,Recovered,Hispanic
+284,Recovering,Hispanic
+285,Not recovered,Caucasian
+286,Not recovered,Asian
+287,Recovered,Caucasian
+288,Recovered,Hispanic
+289,Not recovered,Hispanic
+290,Recovering,Hispanic
+291,Recovered,Caucasian
+292,Recovering,Black
+293,Not recovered,Asian
+294,Unknown,Caucasian
+295,Recovering,Black
+296,Recovered,Asian
+297,Not recovered,Hispanic
+298,Recovering,Asian
+299,Recovering,Caucasian
+300,Unknown,Black
+301,Not recovered,Asian
+302,Not recovered,Caucasian
+303,Not recovered,Black
+304,Recovering,Asian
+305,Not recovered,Hispanic
+306,Recovered,Asian
+307,Recovered,Asian
+308,Not recovered,Latino
+309,Recovering,Caucasian
+310,Recovered,Asian
+311,Recovering,Caucasian
+312,Not recovered,Hispanic
+313,Unknown,Hispanic
+314,Recovering,Caucasian
+315,Recovered,Asian
+316,Not recovered,Caucasian
+317,Recovering,Hispanic
+318,Recovering,Hispanic
+319,Unknown,Hispanic
+320,Not recovered,Caucasian
+321,Not recovered,Black
+322,Not recovered,Asian
+323,Recovering,Caucasian
+324,Not recovered,Black
+325,Recovered,Asian
+326,Recovered,Hispanic
+327,Not recovered,Asian
+328,Recovering,Caucasian
+329,Recovered,Black
+330,Recovering,Asian
+331,Not recovered,Caucasian
+332,Not recovered,Black
+333,Recovered,Asian
+334,Recovered,Hispanic
+335,Not recovered,Asian
+336,Recovering,Asian
+337,Recovered,Latino
+338,Recovering,Caucasian
+339,Not recovered,Asian
+340,Unknown,Caucasian
+341,Recovering,Hispanic
+342,Recovered,Hispanic
+343,Not recovered,Caucasian
+344,Recovering,Asian
+345,Recovering,Caucasian
+346,Unknown,Hispanic
+347,Not recovered,Hispanic
+348,Not recovered,Hispanic
+349,Not recovered,Caucasian
+350,Recovering,Black
+351,Not recovered,Asian
+352,Recovered,Caucasian
+353,Recovered,Black
+354,Not recovered,Asian
+355,Recovering,Hispanic
+356,Recovered,Asian
+357,Recovering,Caucasian
+358,Not recovered,Black
+359,Unknown,Asian
+360,Recovering,Caucasian
+361,Recovered,Black
+362,Not recovered,Asian
+363,Recovering,Hispanic
+364,Recovering,Asian
+365,Unknown,Asian
+366,Not recovered,Latino
+367,Not recovered,Caucasian
+368,Not recovered,Asian
+369,Recovering,Caucasian
+370,Not recovered,Hispanic
+371,Recovered,Hispanic
+372,Recovered,Caucasian
+373,Not recovered,Asian
+374,Recovering,Caucasian
+375,Recovered,Hispanic
+376,Recovering,Hispanic
+377,Not recovered,Hispanic
+378,Not recovered,Caucasian
+379,Recovered,Black
+380,Recovered,Asian
+381,Not recovered,Caucasian
+382,Recovering,Black
+383,Recovered,Asian
+384,Recovering,Hispanic
+385,Not recovered,Asian
+386,Unknown,Caucasian
+387,Recovering,Black
+388,Recovered,Asian
+389,Not recovered,Caucasian
+390,Recovering,Black
+391,Recovering,Asian
+392,Unknown,Hispanic
+393,Not recovered,Asian
+394,Not recovered,Asian
+395,Not recovered,Latino
+396,Recovering,Caucasian
+397,Not recovered,Asian
+398,Recovered,Caucasian
+399,Recovered,Hispanic
+400,Not recovered,Hispanic
+401,Recovering,Caucasian
+402,Recovered,Asian
+403,Recovering,Caucasian
+404,Not recovered,Hispanic
+405,Unknown,Hispanic
+406,Recovering,Hispanic
+407,Recovered,Caucasian
+408,Not recovered,Black
+409,Recovering,Asian
+410,Recovering,Caucasian
+411,Unknown,Black
+412,Not recovered,Asian
+413,Not recovered,Hispanic
+414,Not recovered,Asian
+415,Recovering,Caucasian
+416,Not recovered,Black
+417,Recovered,Asian
+418,Recovered,Caucasian
+419,Not recovered,Black
+420,Recovering,Asian
+421,Recovered,Hispanic
+422,Recovering,Asian
+423,Not recovered,Asian
+424,Not recovered,Latino
+425,Recovered,Caucasian
+426,Recovered,Asian
+427,Not recovered,Caucasian
+428,Recovering,Hispanic
+429,Recovered,Hispanic
+430,Recovering,Caucasian
+431,Not recovered,Asian
+432,Unknown,Caucasian
+433,Recovering,Hispanic
+434,Recovered,Hispanic
+435,Not recovered,Hispanic
+436,Recovering,Caucasian
+437,Recovering,Black
+438,Unknown,Asian
+439,Not recovered,Caucasian
+440,Not recovered,Black
+441,Not recovered,Asian
+442,Recovering,Hispanic
+443,Not recovered,Asian
+444,Recovered,Caucasian
+445,Recovered,Black
+446,Not recovered,Asian
+447,Recovering,Caucasian
+448,Recovered,Black
+449,Recovering,Asian
+450,Not recovered,Hispanic
+451,Unknown,Asian
+452,Recovering,Asian
+453,Recovered,Latino
+454,Not recovered,Caucasian
+455,Recovering,Asian
+456,Recovering,Caucasian
+457,Unknown,Hispanic
+458,Not recovered,Hispanic
+459,Not recovered,Caucasian
+460,Not recovered,Asian
+461,Recovering,Caucasian
+462,Not recovered,Hispanic
+463,Recovered,Hispanic
+464,Recovered,Hispanic
+465,Not recovered,Caucasian
+466,Recovering,Black
+467,Recovered,Asian
+468,Recovering,Caucasian
+469,Not recovered,Black
+470,Not recovered,Asian
+471,Recovered,Hispanic
+472,Recovered,Asian
+473,Not recovered,Caucasian
+474,Recovering,Black
+475,Recovered,Asian
+476,Recovering,Caucasian
+477,Not recovered,Black
+478,Unknown,Asian
+479,Recovering,Hispanic
+480,Recovered,Asian
+481,Not recovered,Asian
+482,Recovering,Latino
+483,Recovering,Caucasian
+484,Unknown,Asian
+485,Not recovered,Caucasian
+486,Not recovered,Hispanic
+487,Not recovered,Hispanic
+488,Recovering,Caucasian
+489,Not recovered,Asian
+490,Recovered,Caucasian
+491,Recovered,Hispanic
+492,Not recovered,Hispanic
+493,Recovering,Hispanic
+494,Recovered,Caucasian
+495,Recovering,Black
+496,Not recovered,Asian
+497,Unknown,Caucasian
+498,Recovering,Black
+499,Recovered,Asian
+500,Not recovered,Hispanic
+501,Recovering,Asian
+502,Recovering,Caucasian
+503,Unknown,Black
+504,Not recovered,Asian
+505,Not recovered,Caucasian
+506,Not recovered,Black
+507,Recovering,Asian
+508,Not recovered,Hispanic
+509,Recovered,Asian
+510,Recovered,Asian
+511,Not recovered,Latino
+512,Recovering,Caucasian
+513,Recovered,Asian
+514,Recovering,Caucasian
+515,Not recovered,Hispanic
+516,Not recovered,Hispanic
+517,Recovered,Caucasian
+518,Recovered,Asian
+519,Not recovered,Caucasian
+520,Recovering,Hispanic
+521,Recovered,Hispanic
+522,Recovering,Hispanic
+523,Not recovered,Caucasian
+524,Unknown,Black
+525,Recovering,Asian
+526,Recovered,Caucasian
+527,Not recovered,Black
+528,Recovering,Asian
+529,Recovering,Hispanic
+530,Unknown,Asian
+531,Not recovered,Caucasian
+532,Not recovered,Black
+533,Not recovered,Asian
+534,Recovering,Caucasian
+535,Not recovered,Black
+536,Recovered,Asian
+537,Recovered,Hispanic
+538,Not recovered,Asian
+539,Recovering,Asian
+540,Recovered,Latino
+541,Recovering,Caucasian
+542,Not recovered,Asian
+543,Unknown,Caucasian
+544,Recovering,Hispanic
+545,Recovered,Hispanic
+546,Not recovered,Caucasian
+547,Recovering,Asian
+548,Recovering,Caucasian
+549,Unknown,Hispanic
+550,Not recovered,Hispanic
+551,Not recovered,Hispanic
+552,Not recovered,Caucasian
+553,Recovering,Black
+554,Not recovered,Asian
+555,Recovered,Caucasian
+556,Recovered,Black
+557,Not recovered,Asian
+558,Recovering,Hispanic
+559,Recovered,Asian
+560,Recovering,Caucasian
+561,Not recovered,Black
+562,Not recovered,Asian
+563,Recovered,Caucasian
+564,Recovered,Black
+565,Not recovered,Asian
+566,Recovering,Hispanic
+567,Recovered,Asian
+568,Recovering,Asian
+569,Not recovered,Latino
+570,Unknown,Caucasian
+571,Recovering,Asian
+572,Recovered,Caucasian
+573,Not recovered,Hispanic
+574,Recovering,Hispanic
+575,Recovering,Caucasian
+576,Unknown,Asian
+577,Not recovered,Caucasian
+578,Not recovered,Hispanic
+579,Not recovered,Hispanic
+580,Recovering,Hispanic
+581,Not recovered,Caucasian
+582,Recovered,Black
+583,Recovered,Asian
+584,Not recovered,Caucasian
+585,Recovering,Black
+586,Recovered,Asian
+587,Recovering,Hispanic
+588,Not recovered,Asian
+589,Unknown,Caucasian
+590,Recovering,Black
+591,Recovered,Asian
+592,Not recovered,Caucasian
+593,Recovering,Black
+594,Recovering,Asian
+595,Unknown,Hispanic
+596,Not recovered,Asian
+597,Not recovered,Asian
+598,Not recovered,Latino
+599,Recovering,Caucasian
+600,Not recovered,Asian
+601,Recovered,Caucasian
+602,Recovered,Hispanic
+603,Not recovered,Hispanic
+604,Recovering,Caucasian
+605,Recovered,Asian
+606,Recovering,Caucasian
+607,Not recovered,Hispanic
+608,Not recovered,Hispanic
+609,Recovered,Hispanic
+610,Recovered,Caucasian
+611,Not recovered,Black
+612,Recovering,Asian
+613,Recovered,Caucasian
+614,Recovering,Black
+615,Not recovered,Asian
+616,Unknown,Hispanic
+617,Recovering,Asian
+618,Recovered,Caucasian
+619,Not recovered,Black
+620,Recovering,Asian
+621,Recovering,Caucasian
+622,Unknown,Black
+623,Not recovered,Asian
+624,Not recovered,Hispanic
+625,Not recovered,Asian
+626,Recovering,Asian
+627,Not recovered,Latino
+628,Recovered,Caucasian
+629,Recovered,Asian
+630,Not recovered,Caucasian
+631,Recovering,Hispanic
+632,Recovered,Hispanic
+633,Recovering,Caucasian
+634,Not recovered,Asian
+635,Unknown,Caucasian
+636,Recovering,Hispanic
+637,Recovered,Hispanic
+638,Not recovered,Hispanic
+639,Recovering,Caucasian
+640,Recovering,Black
+641,Unknown,Asian
+642,Not recovered,Caucasian
+643,Not recovered,Black
+644,Not recovered,Asian
+645,Recovering,Hispanic
+646,Not recovered,Asian
+647,Recovered,Caucasian
+648,Recovered,Black
+649,Not recovered,Asian
+650,Recovering,Caucasian
+651,Recovered,Black
+652,Recovering,Asian
+653,Not recovered,Hispanic
+654,Not recovered,Asian
+655,Recovered,Asian
+656,Recovered,Latino
+657,Not recovered,Caucasian
+658,Recovering,Asian
+659,Recovered,Caucasian
+660,Recovering,Hispanic
+661,Not recovered,Hispanic
+662,Unknown,Caucasian
+663,Recovering,Asian
+664,Recovered,Caucasian
+665,Not recovered,Hispanic
+666,Recovering,Hispanic
+667,Recovering,Hispanic
+668,Unknown,Caucasian
+669,Not recovered,Black
+670,Not recovered,Asian
+671,Not recovered,Caucasian
+672,Recovering,Black
+673,Not recovered,Asian
+674,Recovered,Hispanic
+675,Recovered,Asian
+676,Not recovered,Caucasian
+677,Recovering,Black
+678,Recovered,Asian
+679,Recovering,Caucasian
+680,Not recovered,Black
+681,Unknown,Asian
+682,Recovering,Hispanic
+683,Recovered,Asian
+684,Not recovered,Asian
+685,Recovering,Latino
+686,Recovering,Caucasian
+687,Unknown,Asian
+688,Not recovered,Caucasian
+689,Not recovered,Hispanic
+690,Not recovered,Hispanic
+691,Recovering,Caucasian
+692,Not recovered,Asian
+693,Recovered,Caucasian
+694,Recovered,Hispanic
+695,Not recovered,Hispanic
+696,Recovering,Hispanic
+697,Recovered,Caucasian
+698,Recovering,Black
+699,Not recovered,Asian
+700,Not recovered,Caucasian
+701,Recovered,Black
+702,Recovered,Asian
+703,Not recovered,Hispanic
+704,Recovering,Asian
+705,Recovered,Caucasian
+706,Recovering,Black
+707,Not recovered,Asian
+708,Unknown,Caucasian
+709,Recovering,Black
+710,Recovered,Asian
+711,Not recovered,Hispanic
+712,Recovering,Asian
+713,Recovering,Asian
+714,Unknown,Latino
+715,Not recovered,Caucasian
+716,Not recovered,Asian
+717,Not recovered,Caucasian
+718,Recovering,Hispanic
+719,Not recovered,Hispanic
+720,Recovered,Caucasian
+721,Recovered,Asian
+722,Not recovered,Caucasian
+723,Recovering,Hispanic
+724,Recovered,Hispanic
+725,Recovering,Hispanic
+726,Not recovered,Caucasian
+727,Unknown,Black
+728,Recovering,Asian
+729,Recovered,Caucasian
+730,Not recovered,Black
+731,Recovering,Asian
+732,Recovering,Hispanic
+733,Unknown,Asian
+734,Not recovered,Caucasian
+735,Not recovered,Black
+736,Not recovered,Asian
+737,Recovering,Caucasian
+738,Not recovered,Black
+739,Recovered,Asian
+740,Recovered,Hispanic
+741,Not recovered,Asian
+742,Recovering,Asian
+743,Recovered,Latino
+744,Recovering,Caucasian
+745,Not recovered,Asian
+746,Not recovered,Caucasian
+747,Recovered,Hispanic
+748,Recovered,Hispanic
+749,Not recovered,Caucasian
+750,Recovering,Asian
+751,Recovered,Caucasian
+752,Recovering,Hispanic
+753,Not recovered,Hispanic
+754,Unknown,Hispanic
+755,Recovering,Caucasian
+756,Recovered,Black
+757,Not recovered,Asian
+758,Recovering,Caucasian
+759,Recovering,Black
+760,Unknown,Asian
+761,Not recovered,Hispanic
+762,Not recovered,Asian
+763,Not recovered,Caucasian
+764,Recovering,Black
+765,Not recovered,Asian
+766,Recovered,Caucasian
+767,Recovered,Black
+768,Not recovered,Asian
+769,Recovering,Hispanic
+770,Recovered,Asian
+771,Recovering,Asian
+772,Not recovered,Latino
+773,Unknown,Caucasian
+774,Recovering,Asian
+775,Recovered,Caucasian
+776,Not recovered,Hispanic
+777,Recovering,Hispanic
+778,Recovering,Caucasian
+779,Unknown,Asian
+780,Not recovered,Caucasian
+781,Not recovered,Hispanic
+782,Not recovered,Hispanic
+783,Recovering,Hispanic
+784,Not recovered,Caucasian
+785,Recovered,Black
+786,Recovered,Asian
+787,Not recovered,Caucasian
+788,Recovering,Black
+789,Recovered,Asian
+790,Recovering,Hispanic
+791,Not recovered,Asian
+792,Not recovered,Caucasian
+793,Recovered,Black
+794,Recovered,Asian
+795,Not recovered,Caucasian
+796,Recovering,Black
+797,Recovered,Asian
+798,Recovering,Hispanic
+799,Not recovered,Asian
+800,Unknown,Asian
+801,Recovering,Latino
+802,Recovered,Caucasian
+803,Not recovered,Asian
+804,Recovering,Caucasian
+805,Recovering,Hispanic
+806,Unknown,Hispanic
+807,Not recovered,Caucasian
+808,Not recovered,Asian
+809,Not recovered,Caucasian
+810,Recovering,Hispanic
+811,Not recovered,Hispanic
+812,Recovered,Hispanic
+813,Recovered,Caucasian
+814,Not recovered,Black
+815,Recovering,Asian
+816,Recovered,Caucasian
+817,Recovering,Black
+818,Not recovered,Asian
+819,Unknown,Hispanic
+820,Recovering,Asian
+821,Recovered,Caucasian
+822,Not recovered,Black
+823,Recovering,Asian
+824,Recovering,Caucasian
+825,Unknown,Black
+826,Not recovered,Asian
+827,Not recovered,Hispanic
+828,Not recovered,Asian
+829,Recovering,Asian
+830,Not recovered,Latino
+831,Recovered,Caucasian
+832,Recovered,Asian
+833,Not recovered,Caucasian
+834,Recovering,Hispanic
+835,Recovered,Hispanic
+836,Recovering,Caucasian
+837,Not recovered,Asian
+838,Not recovered,Caucasian
+839,Recovered,Hispanic
+840,Recovered,Hispanic
+841,Not recovered,Hispanic
+842,Recovering,Caucasian
+843,Recovered,Black
+844,Recovering,Asian
+845,Not recovered,Caucasian
+846,Unknown,Black
+847,Recovering,Asian
+848,Recovered,Hispanic
+849,Not recovered,Asian
+850,Recovering,Caucasian
+851,Recovering,Black
+852,Unknown,Asian
+853,Not recovered,Caucasian
+854,Not recovered,Black
+855,Not recovered,Asian
+856,Recovering,Hispanic
+857,Not recovered,Asian
+858,Recovered,Asian
+859,Recovered,Latino
+860,Not recovered,Caucasian
+861,Recovering,Asian
+862,Recovered,Caucasian
+863,Recovering,Hispanic
+864,Not recovered,Hispanic
+865,Unknown,Caucasian
+866,Recovering,Asian
+867,Recovered,Caucasian
+868,Not recovered,Hispanic
+869,Recovering,Hispanic
+870,Recovering,Hispanic
+871,Unknown,Caucasian
+872,Not recovered,Black
+873,Not recovered,Asian
+874,Not recovered,Caucasian
+875,Recovering,Black
+876,Not recovered,Asian
+877,Recovered,Hispanic
+878,Recovered,Asian
+879,Not recovered,Caucasian
+880,Recovering,Black
+881,Recovered,Asian
+882,Recovering,Caucasian
+883,Not recovered,Black
+884,Not recovered,Asian
+885,Recovered,Hispanic
+886,Recovered,Asian
+887,Not recovered,Asian
+888,Recovering,Latino
+889,Recovered,Caucasian
+890,Recovering,Asian
+891,Not recovered,Caucasian
+892,Unknown,Hispanic
+893,Recovering,Hispanic
+894,Recovered,Caucasian
+895,Not recovered,Asian
+896,Recovering,Caucasian
+897,Recovering,Hispanic
+898,Unknown,Hispanic
+899,Not recovered,Hispanic
+900,Not recovered,Caucasian
+901,Not recovered,Black
+902,Recovering,Asian
+903,Not recovered,Caucasian
+904,Recovered,Black
+905,Recovered,Asian
+906,Not recovered,Hispanic
+907,Recovering,Asian
+908,Recovered,Caucasian
+909,Recovering,Black
+910,Not recovered,Asian
+911,Unknown,Caucasian
+912,Recovering,Black
+913,Recovered,Asian
+914,Not recovered,Hispanic
+915,Recovering,Asian
+916,Recovering,Asian
+917,Unknown,Latino
+918,Not recovered,Caucasian
+919,Not recovered,Asian
+920,Not recovered,Caucasian
+921,Recovering,Hispanic
+922,Not recovered,Hispanic
+923,Recovered,Caucasian
+924,Recovered,Asian
+925,Not recovered,Caucasian
+926,Recovering,Hispanic
+927,Recovered,Hispanic
+928,Recovering,Hispanic
+929,Not recovered,Caucasian
+930,Not recovered,Black
+931,Recovered,Asian
+932,Recovered,Caucasian
+933,Not recovered,Black
+934,Recovering,Asian
+935,Recovered,Hispanic
+936,Recovering,Asian
+937,Not recovered,Caucasian
+938,Unknown,Black
+939,Recovering,Asian
+940,Recovered,Caucasian
+941,Not recovered,Black
+942,Recovering,Asian
+943,Recovering,Hispanic
+944,Unknown,Asian
+945,Not recovered,Asian
+946,Not recovered,Latino
+947,Not recovered,Caucasian
+948,Recovering,Asian
+949,Not recovered,Caucasian
+950,Recovered,Hispanic
+951,Recovered,Hispanic
+952,Not recovered,Caucasian
+953,Recovering,Asian
+954,Recovered,Caucasian
+955,Recovering,Hispanic
+956,Not recovered,Hispanic
+957,Unknown,Hispanic
+958,Recovering,Caucasian
+959,Recovered,Black
+960,Not recovered,Asian
+961,Recovering,Caucasian
+962,Recovering,Black
+963,Unknown,Asian
+964,Not recovered,Hispanic
+965,Not recovered,Asian
+966,Not recovered,Caucasian
+967,Recovering,Black
+968,Not recovered,Asian
+969,Recovered,Caucasian
+970,Recovered,Black
+971,Not recovered,Asian
+972,Recovering,Hispanic
+973,Recovered,Asian
+974,Recovering,Asian
+975,Not recovered,Latino
+976,Not recovered,Caucasian
+977,Recovered,Asian
+978,Recovered,Caucasian
+979,Not recovered,Hispanic
+980,Recovering,Hispanic
+981,Recovered,Caucasian
+982,Recovering,Asian
+983,Not recovered,Caucasian
+984,Unknown,Hispanic
+985,Recovering,Hispanic
+986,Recovered,Hispanic
+987,Not recovered,Caucasian
+988,Recovering,Black
+989,Recovering,Asian
+990,Unknown,Caucasian
+991,Not recovered,Black
+992,Not recovered,Asian
+993,Not recovered,Hispanic
+994,Recovering,Asian
+995,Not recovered,Caucasian
+996,Recovered,Black
+997,Recovered,Asian
+998,Not recovered,Caucasian
+999,Recovering,Black
+1000,Recovered,Asian
+1001,Recovering,Hispanic
+1002,Not recovered,Asian
+1003,Unknown,Asian
+1004,Recovering,Latino
+1005,Recovered,Caucasian
+1006,Not recovered,Asian
+1007,Recovering,Caucasian
+1008,Recovering,Hispanic
+1009,Unknown,Hispanic
+1010,Not recovered,Caucasian
+1011,Not recovered,Asian
+1012,Not recovered,Caucasian
+1013,Recovering,Hispanic
+1014,Not recovered,Hispanic
+1015,Recovered,Hispanic
+1016,Recovered,Caucasian
+1017,Not recovered,Black
+1018,Recovering,Asian
+1019,Recovered,Caucasian
+1020,Recovering,Black
+1021,Not recovered,Asian
+1022,Not recovered,Hispanic
+1023,Recovered,Asian
+1024,Recovered,Caucasian
+1025,Not recovered,Black
+1026,Recovering,Asian
+1027,Recovered,Caucasian
+1028,Recovering,Black
+1029,Not recovered,Asian
+1030,Unknown,Hispanic
+1031,Recovering,Asian
+1032,Recovered,Asian
+1033,Not recovered,Latino
+1034,Recovering,Caucasian
+1035,Recovering,Asian
+1036,Unknown,Caucasian
+1037,Not recovered,Hispanic
+1038,Not recovered,Hispanic
+1039,Not recovered,Caucasian
+1040,Recovering,Asian
+1041,Not recovered,Caucasian
+1042,Recovered,Hispanic
+1043,Recovered,Hispanic
+1044,Not recovered,Hispanic
+1045,Recovering,Caucasian
+1046,Recovered,Black
+1047,Recovering,Asian
+1048,Not recovered,Caucasian
+1049,Unknown,Black
+1050,Recovering,Asian
+1051,Recovered,Hispanic
+1052,Not recovered,Asian
+1053,Recovering,Caucasian
+1054,Recovering,Black
+1055,Unknown,Asian
+1056,Not recovered,Caucasian
+1057,Not recovered,Black
+1058,Not recovered,Asian
+1059,Recovering,Hispanic
+1060,Not recovered,Asian
+1061,Recovered,Asian
+1062,Recovered,Latino
+1063,Not recovered,Caucasian
+1064,Recovering,Asian
+1065,Recovered,Caucasian
+1066,Recovering,Hispanic
+1067,Not recovered,Hispanic
+1068,Not recovered,Caucasian
+1069,Recovered,Asian
+1070,Recovered,Caucasian
+1071,Not recovered,Hispanic
+1072,Recovering,Hispanic
+1073,Recovered,Hispanic
+1074,Recovering,Caucasian
+1075,Not recovered,Black
+1076,Unknown,Asian
+1077,Recovering,Caucasian
+1078,Recovered,Black
+1079,Not recovered,Asian
+1080,Recovering,Hispanic
+1081,Recovering,Asian
+1082,Unknown,Caucasian
+1083,Not recovered,Black
+1084,Not recovered,Asian
+1085,Not recovered,Caucasian
+1086,Recovering,Black
+1087,Not recovered,Asian
+1088,Recovered,Hispanic
+1089,Recovered,Asian
+1090,Not recovered,Asian
+1091,Recovering,Latino
+1092,Recovered,Caucasian
+1093,Recovering,Asian
+1094,Not recovered,Caucasian
+1095,Unknown,Hispanic
+1096,Recovering,Hispanic
+1097,Recovered,Caucasian
+1098,Not recovered,Asian
+1099,Recovering,Caucasian
+1100,Recovering,Hispanic
+1101,Unknown,Hispanic
+1102,Not recovered,Hispanic
+1103,Not recovered,Caucasian
+1104,Not recovered,Black
+1105,Recovering,Asian
+1106,Not recovered,Caucasian
+1107,Recovered,Black
+1108,Recovered,Asian
+1109,Not recovered,Hispanic
+1110,Recovering,Asian
+1111,Recovered,Caucasian
+1112,Recovering,Black
+1113,Not recovered,Asian
+1114,Not recovered,Caucasian
+1115,Recovered,Black
+1116,Recovered,Asian
+1117,Not recovered,Hispanic
+1118,Recovering,Asian
+1119,Recovered,Asian
+1120,Recovering,Latino
+1121,Not recovered,Caucasian
+1122,Unknown,Asian
+1123,Recovering,Caucasian
+1124,Recovered,Hispanic
+1125,Not recovered,Hispanic
+1126,Recovering,Caucasian
+1127,Recovering,Asian
+1128,Unknown,Caucasian
+1129,Not recovered,Hispanic
+1130,Not recovered,Hispanic
+1131,Not recovered,Hispanic
+1132,Recovering,Caucasian
+1133,Not recovered,Black
+1134,Recovered,Asian
+1135,Recovered,Caucasian
+1136,Not recovered,Black
+1137,Recovering,Asian
+1138,Recovered,Hispanic
+1139,Recovering,Asian
+1140,Not recovered,Caucasian
+1141,Unknown,Black
+1142,Recovering,Asian
+1143,Recovered,Caucasian
+1144,Not recovered,Black
+1145,Recovering,Asian
+1146,Recovering,Hispanic
+1147,Unknown,Asian
+1148,Not recovered,Asian
+1149,Not recovered,Latino
+1150,Not recovered,Caucasian
+1151,Recovering,Asian
+1152,Not recovered,Caucasian
+1153,Recovered,Hispanic
+1154,Recovered,Hispanic
+1155,Not recovered,Caucasian
+1156,Recovering,Asian
+1157,Recovered,Caucasian
+1158,Recovering,Hispanic
+1159,Not recovered,Hispanic
+1160,Not recovered,Hispanic
+1161,Recovered,Caucasian
+1162,Recovered,Black
+1163,Not recovered,Asian
+1164,Recovering,Caucasian
+1165,Recovered,Black
+1166,Recovering,Asian
+1167,Not recovered,Hispanic
+1168,Unknown,Asian
+1169,Recovering,Caucasian
+1170,Recovered,Black
+1171,Not recovered,Asian
+1172,Recovering,Caucasian
+1173,Recovering,Black
+1174,Unknown,Asian
+1175,Not recovered,Hispanic
+1176,Not recovered,Asian
+1177,Not recovered,Asian
+1178,Recovering,Latino
+1179,Not recovered,Caucasian
+1180,Recovered,Asian
+1181,Recovered,Caucasian
+1182,Not recovered,Hispanic
+1183,Recovering,Hispanic
+1184,Recovered,Caucasian
+1185,Recovering,Asian
+1186,Not recovered,Caucasian
+1187,Unknown,Hispanic
+1188,Recovering,Hispanic
+1189,Recovered,Hispanic
+1190,Not recovered,Caucasian
+1191,Recovering,Black
+1192,Recovering,Asian
+1193,Unknown,Caucasian
+1194,Not recovered,Black
+1195,Not recovered,Asian
+1196,Not recovered,Hispanic
+1197,Recovering,Asian
+1198,Not recovered,Caucasian
+1199,Recovered,Black
+1200,Recovered,Asian
+1201,Not recovered,Caucasian
+1202,Recovering,Black
+1203,Recovered,Asian
+1204,Recovering,Hispanic
+1205,Not recovered,Asian
+1206,Not recovered,Asian
+1207,Recovered,Latino
+1208,Recovered,Caucasian
+1209,Not recovered,Asian
+1210,Recovering,Caucasian
+1211,Recovered,Hispanic
+1212,Recovering,Hispanic
+1213,Not recovered,Caucasian
+1214,Unknown,Asian
+1215,Recovering,Caucasian
+1216,Recovered,Hispanic
+1217,Not recovered,Hispanic
+1218,Recovering,Hispanic
+1219,Recovering,Caucasian
+1220,Unknown,Black
+1221,Not recovered,Asian
+1222,Not recovered,Caucasian
+1223,Not recovered,Black
+1224,Recovering,Asian
+1225,Not recovered,Hispanic
+1226,Recovered,Asian
+1227,Recovered,Caucasian
+1228,Not recovered,Black
+1229,Recovering,Asian
+1230,Recovered,Caucasian
+1231,Recovering,Black
+1232,Not recovered,Asian
+1233,Unknown,Hispanic
+1234,Recovering,Asian
+1235,Recovered,Asian
+1236,Not recovered,Latino
+1237,Recovering,Caucasian
+1238,Recovering,Asian
+1239,Unknown,Caucasian
+1240,Not recovered,Hispanic
+1241,Not recovered,Hispanic
+1242,Not recovered,Caucasian
+1243,Recovering,Asian
+1244,Not recovered,Caucasian
+1245,Recovered,Hispanic
+1246,Recovered,Hispanic
+1247,Not recovered,Hispanic
+1248,Recovering,Caucasian
+1249,Recovered,Black
+1250,Recovering,Asian
+1251,Not recovered,Caucasian
+1252,Not recovered,Black
+1253,Recovered,Asian
+1254,Recovered,Hispanic
+1255,Not recovered,Asian
+1256,Recovering,Caucasian
+1257,Recovered,Black
+1258,Recovering,Asian
+1259,Not recovered,Caucasian
+1260,Unknown,Black
+1261,Recovering,Asian
+1262,Recovered,Hispanic
+1263,Not recovered,Asian
+1264,Recovering,Asian
+1265,Recovering,Latino
+1266,Unknown,Caucasian
+1267,Not recovered,Asian
+1268,Not recovered,Caucasian
+1269,Not recovered,Hispanic
+1270,Recovering,Hispanic
+1271,Not recovered,Caucasian
+1272,Recovered,Asian
+1273,Recovered,Caucasian
+1274,Not recovered,Hispanic
+1275,Recovering,Hispanic
+1276,Recovered,Hispanic
+1277,Recovering,Caucasian
+1278,Not recovered,Black
+1279,Unknown,Asian
+1280,Recovering,Caucasian
+1281,Recovered,Black
+1282,Not recovered,Asian
+1283,Recovering,Hispanic
+1284,Recovering,Asian
+1285,Unknown,Caucasian
+1286,Not recovered,Black
+1287,Not recovered,Asian
+1288,Not recovered,Caucasian
+1289,Recovering,Black
+1290,Not recovered,Asian
+1291,Recovered,Hispanic
+1292,Recovered,Asian
+1293,Not recovered,Asian
+1294,Recovering,Latino
+1295,Recovered,Caucasian
+1296,Recovering,Asian
+1297,Not recovered,Caucasian
+1298,Not recovered,Hispanic
+1299,Recovered,Hispanic
+1300,Recovered,Caucasian
+1301,Not recovered,Asian
+1302,Recovering,Caucasian
+1303,Recovered,Hispanic
+1304,Recovering,Hispanic
+1305,Not recovered,Hispanic
+1306,Unknown,Caucasian
+1307,Recovering,Black
+1308,Recovered,Asian
+1309,Not recovered,Caucasian
+1310,Recovering,Black
+1311,Recovering,Asian
+1312,Unknown,Hispanic
+1313,Not recovered,Asian
+1314,Not recovered,Caucasian
+1315,Not recovered,Black
+1316,Recovering,Asian
+1317,Not recovered,Caucasian
+1318,Recovered,Black
+1319,Recovered,Asian
+1320,Not recovered,Hispanic
+1321,Recovering,Asian
+1322,Recovered,Asian
+1323,Recovering,Latino
+1324,Not recovered,Caucasian
+1325,Unknown,Asian
+1326,Recovering,Caucasian
+1327,Recovered,Hispanic
+1328,Not recovered,Hispanic
+1329,Recovering,Caucasian
+1330,Recovering,Asian
+1331,Unknown,Caucasian
+1332,Not recovered,Hispanic
+1333,Not recovered,Hispanic
+1334,Not recovered,Hispanic
+1335,Recovering,Caucasian
+1336,Not recovered,Black
+1337,Recovered,Asian
+1338,Recovered,Caucasian
+1339,Not recovered,Black
+1340,Recovering,Asian
+1341,Recovered,Hispanic
+1342,Recovering,Asian
+1343,Not recovered,Caucasian
+1344,Not recovered,Black
+1345,Recovered,Asian
+1346,Recovered,Caucasian
+1347,Not recovered,Black
+1348,Recovering,Asian
+1349,Recovered,Hispanic
+1350,Recovering,Asian
+1351,Not recovered,Asian
+1352,Unknown,Latino
+1353,Recovering,Caucasian
+1354,Recovered,Asian
+1355,Not recovered,Caucasian
+1356,Recovering,Hispanic
+1357,Recovering,Hispanic
+1358,Unknown,Caucasian
+1359,Not recovered,Asian
+1360,Not recovered,Caucasian
+1361,Not recovered,Hispanic
+1362,Recovering,Hispanic
+1363,Not recovered,Hispanic
+1364,Recovered,Caucasian
+1365,Recovered,Black
+1366,Not recovered,Asian
+1367,Recovering,Caucasian
+1368,Recovered,Black
+1369,Recovering,Asian
+1370,Not recovered,Hispanic
+1371,Unknown,Asian
+1372,Recovering,Caucasian
+1373,Recovered,Black
+1374,Not recovered,Asian
+1375,Recovering,Caucasian
+1376,Recovering,Black
+1377,Unknown,Asian
+1378,Not recovered,Hispanic
+1379,Not recovered,Asian
+1380,Not recovered,Asian
+1381,Recovering,Latino
+1382,Not recovered,Caucasian
+1383,Recovered,Asian
+1384,Recovered,Caucasian
+1385,Not recovered,Hispanic
+1386,Recovering,Hispanic
+1387,Recovered,Caucasian
+1388,Recovering,Asian
+1389,Not recovered,Caucasian
+1390,Not recovered,Hispanic
+1391,Recovered,Hispanic
+1392,Recovered,Hispanic
+1393,Not recovered,Caucasian
+1394,Recovering,Black
+1395,Recovered,Asian
+1396,Recovering,Caucasian
+1397,Not recovered,Black
+1398,Unknown,Asian
+1399,Recovering,Hispanic
+1400,Recovered,Asian
+1401,Not recovered,Caucasian
+1402,Recovering,Black
+1403,Recovering,Asian
+1404,Unknown,Caucasian
+1405,Not recovered,Black
+1406,Not recovered,Asian
+1407,Not recovered,Hispanic
+1408,Recovering,Asian
+1409,Not recovered,Asian
+1410,Recovered,Latino
+1411,Recovered,Caucasian
+1412,Not recovered,Asian
+1413,Recovering,Caucasian
+1414,Recovered,Hispanic
+1415,Recovering,Hispanic
+1416,Not recovered,Caucasian
+1417,Unknown,Asian
+1418,Recovering,Caucasian
+1419,Recovered,Hispanic
+1420,Not recovered,Hispanic
+1421,Recovering,Hispanic
+1422,Recovering,Caucasian
+1423,Unknown,Black
+1424,Not recovered,Asian
+1425,Not recovered,Caucasian
+1426,Not recovered,Black
+1427,Recovering,Asian
+1428,Not recovered,Hispanic
+1429,Recovered,Asian
+1430,Recovered,Caucasian
+1431,Not recovered,Black
+1432,Recovering,Asian
+1433,Recovered,Caucasian
+1434,Recovering,Black
+1435,Not recovered,Asian
+1436,Not recovered,Hispanic
+1437,Recovered,Asian
+1438,Recovered,Asian
+1439,Not recovered,Latino
+1440,Recovering,Caucasian
+1441,Recovered,Asian
+1442,Recovering,Caucasian
+1443,Not recovered,Hispanic
+1444,Unknown,Hispanic
+1445,Recovering,Caucasian
+1446,Recovered,Asian
+1447,Not recovered,Caucasian
+1448,Recovering,Hispanic
+1449,Recovering,Hispanic
+1450,Unknown,Hispanic
+1451,Not recovered,Caucasian
+1452,Not recovered,Black
+1453,Not recovered,Asian
+1454,Recovering,Caucasian
+1455,Not recovered,Black
+1456,Recovered,Asian
+1457,Recovered,Hispanic
+1458,Not recovered,Asian
+1459,Recovering,Caucasian
+1460,Recovered,Black
+1461,Recovering,Asian
+1462,Not recovered,Caucasian
+1463,Unknown,Black
+1464,Recovering,Asian
+1465,Recovered,Hispanic
+1466,Not recovered,Asian
+1467,Recovering,Asian
+1468,Recovering,Latino
+1469,Unknown,Caucasian
+1470,Not recovered,Asian
+1471,Not recovered,Caucasian
+1472,Not recovered,Hispanic
+1473,Recovering,Hispanic
+1474,Not recovered,Caucasian
+1475,Recovered,Asian
+1476,Recovered,Caucasian
+1477,Not recovered,Hispanic
+1478,Recovering,Hispanic
+1479,Recovered,Hispanic
+1480,Recovering,Caucasian
+1481,Not recovered,Black
+1482,Not recovered,Asian
+1483,Recovered,Caucasian
+1484,Recovered,Black
+1485,Not recovered,Asian
+1486,Recovering,Hispanic
+1487,Recovered,Asian
+1488,Recovering,Caucasian
+1489,Not recovered,Black
+1490,Unknown,Asian
+1491,Recovering,Caucasian
+1492,Recovered,Black
+1493,Not recovered,Asian
+1494,Recovering,Hispanic
+1495,Recovering,Asian
+1496,Unknown,Asian
+1497,Not recovered,Latino
+1498,Not recovered,Caucasian
+1499,Not recovered,Asian
+1500,Recovering,Caucasian
+1501,Not recovered,Hispanic
+1502,Recovered,Hispanic
+1503,Recovered,Caucasian
+1504,Not recovered,Asian
+1505,Recovering,Caucasian
+1506,Recovered,Hispanic
+1507,Recovering,Hispanic
+1508,Not recovered,Hispanic
+1509,Unknown,Caucasian
+1510,Recovering,Black
+1511,Recovered,Asian
+1512,Not recovered,Caucasian
+1513,Recovering,Black
+1514,Recovering,Asian
+1515,Unknown,Hispanic
+1516,Not recovered,Asian
+1517,Not recovered,Caucasian
+1518,Not recovered,Black
+1519,Recovering,Asian
+1520,Not recovered,Caucasian
+1521,Recovered,Black
+1522,Recovered,Asian
+1523,Not recovered,Hispanic
+1524,Recovering,Asian
+1525,Recovered,Asian
+1526,Recovering,Latino
+1527,Not recovered,Caucasian
+1528,Not recovered,Asian
+1529,Recovered,Caucasian
+1530,Recovered,Hispanic
+1531,Not recovered,Hispanic
+1532,Recovering,Caucasian
+1533,Recovered,Asian
+1534,Recovering,Caucasian
+1535,Not recovered,Hispanic
+1536,Unknown,Hispanic
+1537,Recovering,Hispanic
+1538,Recovered,Caucasian
+1539,Not recovered,Black
+1540,Recovering,Asian
+1541,Recovering,Caucasian
+1542,Unknown,Black
+1543,Not recovered,Asian
+1544,Not recovered,Hispanic
+1545,Not recovered,Asian
+1546,Recovering,Caucasian
+1547,Not recovered,Black
+1548,Recovered,Asian
+1549,Recovered,Caucasian
+1550,Not recovered,Black
+1551,Recovering,Asian
+1552,Recovered,Hispanic
+1553,Recovering,Asian
+1554,Not recovered,Asian
+1555,Unknown,Latino
+1556,Recovering,Caucasian
+1557,Recovered,Asian
+1558,Not recovered,Caucasian
+1559,Recovering,Hispanic
+1560,Recovering,Hispanic
+1561,Unknown,Caucasian
+1562,Not recovered,Asian
+1563,Not recovered,Caucasian
+1564,Not recovered,Hispanic
+1565,Recovering,Hispanic
+1566,Not recovered,Hispanic
+1567,Recovered,Caucasian
+1568,Recovered,Black
+1569,Not recovered,Asian
+1570,Recovering,Caucasian
+1571,Recovered,Black
+1572,Recovering,Asian
+1573,Not recovered,Hispanic
+1574,Not recovered,Asian
+1575,Recovered,Caucasian
+1576,Recovered,Black
+1577,Not recovered,Asian
+1578,Recovering,Caucasian
+1579,Recovered,Black
+1580,Recovering,Asian
+1581,Not recovered,Hispanic
+1582,Unknown,Asian
+1583,Recovering,Asian
+1584,Recovered,Latino
+1585,Not recovered,Caucasian
+1586,Recovering,Asian
+1587,Recovering,Caucasian
+1588,Unknown,Hispanic
+1589,Not recovered,Hispanic
+1590,Not recovered,Caucasian
+1591,Not recovered,Asian
+1592,Recovering,Caucasian
+1593,Not recovered,Hispanic
+1594,Recovered,Hispanic
+1595,Recovered,Hispanic
+1596,Not recovered,Caucasian
+1597,Recovering,Black
+1598,Recovered,Asian
+1599,Recovering,Caucasian
+1600,Not recovered,Black
+1601,Unknown,Asian
+1602,Recovering,Hispanic
+1603,Recovered,Asian
+1604,Not recovered,Caucasian
+1605,Recovering,Black
+1606,Recovering,Asian
+1607,Unknown,Caucasian
+1608,Not recovered,Black
+1609,Not recovered,Asian
+1610,Not recovered,Hispanic
+1611,Recovering,Asian
+1612,Not recovered,Asian
+1613,Recovered,Latino
+1614,Recovered,Caucasian
+1615,Not recovered,Asian
+1616,Recovering,Caucasian
+1617,Recovered,Hispanic
+1618,Recovering,Hispanic
+1619,Not recovered,Caucasian
+1620,Not recovered,Asian
+1621,Recovered,Caucasian
+1622,Recovered,Hispanic
+1623,Not recovered,Hispanic
+1624,Recovering,Hispanic
+1625,Recovered,Caucasian
+1626,Recovering,Black
+1627,Not recovered,Asian
+1628,Unknown,Caucasian
+1629,Recovering,Black
+1630,Recovered,Asian
+1631,Not recovered,Hispanic
+1632,Recovering,Asian
+1633,Recovering,Caucasian
+1634,Unknown,Black
+1635,Not recovered,Asian
+1636,Not recovered,Caucasian
+1637,Not recovered,Black
+1638,Recovering,Asian
+1639,Not recovered,Hispanic
+1640,Recovered,Asian
+1641,Recovered,Asian
+1642,Not recovered,Latino
+1643,Recovering,Caucasian
+1644,Recovered,Asian
+1645,Recovering,Caucasian
+1646,Not recovered,Hispanic
+1647,Unknown,Hispanic
+1648,Recovering,Caucasian
+1649,Recovered,Asian
+1650,Not recovered,Caucasian
+1651,Recovering,Hispanic
+1652,Recovering,Hispanic
+1653,Unknown,Hispanic
+1654,Not recovered,Caucasian
+1655,Not recovered,Black
+1656,Not recovered,Asian
+1657,Recovering,Caucasian
+1658,Not recovered,Black
+1659,Recovered,Asian
+1660,Recovered,Hispanic
+1661,Not recovered,Asian
+1662,Recovering,Caucasian
+1663,Recovered,Black
+1664,Recovering,Asian
+1665,Not recovered,Caucasian
+1666,Not recovered,Black
+1667,Recovered,Asian
+1668,Recovered,Hispanic
+1669,Not recovered,Asian
+1670,Recovering,Asian
+1671,Recovered,Latino
+1672,Recovering,Caucasian
+1673,Not recovered,Asian
+1674,Unknown,Caucasian
+1675,Recovering,Hispanic
+1676,Recovered,Hispanic
+1677,Not recovered,Caucasian
+1678,Recovering,Asian
+1679,Recovering,Caucasian
+1680,Unknown,Hispanic
+1681,Not recovered,Hispanic
+1682,Not recovered,Hispanic
+1683,Not recovered,Caucasian
+1684,Recovering,Black
+1685,Not recovered,Asian
+1686,Recovered,Caucasian
+1687,Recovered,Black
+1688,Not recovered,Asian
+1689,Recovering,Hispanic
+1690,Recovered,Asian
+1691,Recovering,Caucasian
+1692,Not recovered,Black
+1693,Unknown,Asian
+1694,Recovering,Caucasian
+1695,Recovered,Black
+1696,Not recovered,Asian
+1697,Recovering,Hispanic
+1698,Recovering,Asian
+1699,Unknown,Asian
+1700,Not recovered,Latino
+1701,Not recovered,Caucasian
+1702,Not recovered,Asian
+1703,Recovering,Caucasian
+1704,Not recovered,Hispanic
+1705,Recovered,Hispanic
+1706,Recovered,Caucasian
+1707,Not recovered,Asian
+1708,Recovering,Caucasian
+1709,Recovered,Hispanic
+1710,Recovering,Hispanic
+1711,Not recovered,Hispanic
+1712,Not recovered,Caucasian
+1713,Recovered,Black
+1714,Recovered,Asian
+1715,Not recovered,Caucasian
+1716,Recovering,Black
+1717,Recovered,Asian
+1718,Recovering,Hispanic
+1719,Not recovered,Asian
+1720,Unknown,Caucasian
+1721,Recovering,Black
+1722,Recovered,Asian
+1723,Not recovered,Caucasian
+1724,Recovering,Black
+1725,Recovering,Asian
+1726,Unknown,Hispanic
+1727,Not recovered,Asian
+1728,Not recovered,Asian
+1729,Not recovered,Latino
+1730,Recovering,Caucasian
+1731,Not recovered,Asian
+1732,Recovered,Caucasian
+1733,Recovered,Hispanic
+1734,Not recovered,Hispanic
+1735,Recovering,Caucasian
+1736,Recovered,Asian
+1737,Recovering,Caucasian
+1738,Not recovered,Hispanic
+1739,Unknown,Hispanic
+1740,Recovering,Hispanic
+1741,Recovered,Caucasian
+1742,Not recovered,Black
+1743,Recovering,Asian
+1744,Recovering,Caucasian
+1745,Unknown,Black
+1746,Not recovered,Asian
+1747,Not recovered,Hispanic
+1748,Not recovered,Asian
+1749,Recovering,Caucasian
+1750,Not recovered,Black
+1751,Recovered,Asian
+1752,Recovered,Caucasian
+1753,Not recovered,Black
+1754,Recovering,Asian
+1755,Recovered,Hispanic
+1756,Recovering,Asian
+1757,Not recovered,Asian
+1758,Not recovered,Latino
+1759,Recovered,Caucasian
+1760,Recovered,Asian
+1761,Not recovered,Caucasian
+1762,Recovering,Hispanic
+1763,Recovered,Hispanic
+1764,Recovering,Caucasian
+1765,Not recovered,Asian
+1766,Unknown,Caucasian
+1767,Recovering,Hispanic
+1768,Recovered,Hispanic
+1769,Not recovered,Hispanic
+1770,Recovering,Caucasian
+1771,Recovering,Black
+1772,Unknown,Asian
+1773,Not recovered,Caucasian
+1774,Not recovered,Black
+1775,Not recovered,Asian
+1776,Recovering,Hispanic
+1777,Not recovered,Asian
+1778,Recovered,Caucasian
+1779,Recovered,Black
+1780,Not recovered,Asian
+1781,Recovering,Caucasian
+1782,Recovered,Black
+1783,Recovering,Asian
+1784,Not recovered,Hispanic
+1785,Unknown,Asian
+1786,Recovering,Asian
+1787,Recovered,Latino
+1788,Not recovered,Caucasian
+1789,Recovering,Asian
+1790,Recovering,Caucasian
+1791,Unknown,Hispanic
+1792,Not recovered,Hispanic
+1793,Not recovered,Caucasian
+1794,Not recovered,Asian
+1795,Recovering,Caucasian
+1796,Not recovered,Hispanic
+1797,Recovered,Hispanic
+1798,Recovered,Hispanic
+1799,Not recovered,Caucasian
+1800,Recovering,Black
+1801,Recovered,Asian
+1802,Recovering,Caucasian
+1803,Not recovered,Black
+1804,Not recovered,Asian
+1805,Recovered,Hispanic
+1806,Recovered,Asian
+1807,Not recovered,Caucasian
+1808,Recovering,Black
+1809,Recovered,Asian
+1810,Recovering,Caucasian
+1811,Not recovered,Black
+1812,Unknown,Asian
+1813,Recovering,Hispanic
+1814,Recovered,Asian
+1815,Not recovered,Asian
+1816,Recovering,Latino
+1817,Recovering,Caucasian
+1818,Unknown,Asian
+1819,Not recovered,Caucasian
+1820,Not recovered,Hispanic
+1821,Not recovered,Hispanic
+1822,Recovering,Caucasian
+1823,Not recovered,Asian
+1824,Recovered,Caucasian
+1825,Recovered,Hispanic
+1826,Not recovered,Hispanic
+1827,Recovering,Hispanic
+1828,Recovered,Caucasian
+1829,Recovering,Black
+1830,Not recovered,Asian
+1831,Unknown,Caucasian
+1832,Recovering,Black
+1833,Recovered,Asian
+1834,Not recovered,Hispanic
+1835,Recovering,Asian
+1836,Recovering,Caucasian
+1837,Unknown,Black
+1838,Not recovered,Asian
+1839,Not recovered,Caucasian
+1840,Not recovered,Black
+1841,Recovering,Asian
+1842,Not recovered,Hispanic
+1843,Recovered,Asian
+1844,Recovered,Asian
+1845,Not recovered,Latino
+1846,Recovering,Caucasian
+1847,Recovered,Asian
+1848,Recovering,Caucasian
+1849,Not recovered,Hispanic
+1850,Not recovered,Hispanic
+1851,Recovered,Caucasian
+1852,Recovered,Asian
+1853,Not recovered,Caucasian
+1854,Recovering,Hispanic
+1855,Recovered,Hispanic
+1856,Recovering,Hispanic
+1857,Not recovered,Caucasian
+1858,Unknown,Black
+1859,Recovering,Asian
+1860,Recovered,Caucasian
+1861,Not recovered,Black
+1862,Recovering,Asian
+1863,Recovering,Hispanic
+1864,Unknown,Asian
+1865,Not recovered,Caucasian
+1866,Not recovered,Black
+1867,Not recovered,Asian
+1868,Recovering,Caucasian
+1869,Not recovered,Black
+1870,Recovered,Asian
+1871,Recovered,Hispanic
+1872,Not recovered,Asian
+1873,Recovering,Asian
+1874,Recovered,Latino
+1875,Recovering,Caucasian
+1876,Not recovered,Asian
+1877,Unknown,Caucasian
+1878,Recovering,Hispanic
+1879,Recovered,Hispanic
+1880,Not recovered,Caucasian
+1881,Recovering,Asian
+1882,Recovering,Caucasian
+1883,Unknown,Hispanic
+1884,Not recovered,Hispanic
+1885,Not recovered,Hispanic
+1886,Not recovered,Caucasian
+1887,Recovering,Black
+1888,Not recovered,Asian
+1889,Recovered,Caucasian
+1890,Recovered,Black
+1891,Not recovered,Asian
+1892,Recovering,Hispanic
+1893,Recovered,Asian
+1894,Recovering,Caucasian
+1895,Not recovered,Black
+1896,Not recovered,Asian
+1897,Recovered,Caucasian
+1898,Recovered,Black
+1899,Not recovered,Asian
+1900,Recovering,Hispanic
+1901,Recovered,Asian
+1902,Recovering,Asian
+1903,Not recovered,Latino
+1904,Unknown,Caucasian
+1905,Recovering,Asian
+1906,Recovered,Caucasian
+1907,Not recovered,Hispanic
+1908,Recovering,Hispanic
+1909,Recovering,Caucasian
+1910,Unknown,Asian
+1911,Not recovered,Caucasian
+1912,Not recovered,Hispanic
+1913,Not recovered,Hispanic
+1914,Recovering,Hispanic
+1915,Not recovered,Caucasian
+1916,Recovered,Black
+1917,Recovered,Asian
+1918,Not recovered,Caucasian
+1919,Recovering,Black
+1920,Recovered,Asian
+1921,Recovering,Hispanic
+1922,Not recovered,Asian
+1923,Unknown,Caucasian
+1924,Recovering,Black
+1925,Recovered,Asian
+1926,Not recovered,Caucasian
+1927,Recovering,Black
+1928,Recovering,Asian
+1929,Unknown,Hispanic
+1930,Not recovered,Asian
+1931,Not recovered,Asian
+1932,Not recovered,Latino
+1933,Recovering,Caucasian
+1934,Not recovered,Asian
+1935,Recovered,Caucasian
+1936,Recovered,Hispanic
+1937,Not recovered,Hispanic
+1938,Recovering,Caucasian
+1939,Recovered,Asian
+1940,Recovering,Caucasian
+1941,Not recovered,Hispanic
+1942,Not recovered,Hispanic
+1943,Recovered,Hispanic
+1944,Recovered,Caucasian
+1945,Not recovered,Black
+1946,Recovering,Asian
+1947,Recovered,Caucasian
+1948,Recovering,Black
+1949,Not recovered,Asian
+1950,Unknown,Hispanic
+1951,Recovering,Asian
+1952,Recovered,Caucasian
+1953,Not recovered,Black
+1954,Recovering,Asian
+1955,Recovering,Caucasian
+1956,Unknown,Black
+1957,Not recovered,Asian
+1958,Not recovered,Hispanic
+1959,Not recovered,Asian
+1960,Recovering,Asian
+1961,Not recovered,Latino
+1962,Recovered,Caucasian
+1963,Recovered,Asian
+1964,Not recovered,Caucasian
+1965,Recovering,Hispanic
+1966,Recovered,Hispanic
+1967,Recovering,Caucasian
+1968,Not recovered,Asian
+1969,Unknown,Caucasian
+1970,Recovering,Hispanic
+1971,Recovered,Hispanic
+1972,Not recovered,Hispanic
+1973,Recovering,Caucasian
+1974,Recovering,Black
+1975,Unknown,Asian
+1976,Not recovered,Caucasian
+1977,Not recovered,Black
+1978,Not recovered,Asian
+1979,Recovering,Hispanic
+1980,Not recovered,Asian
+1981,Recovered,Caucasian
+1982,Recovered,Black
+1983,Not recovered,Asian
+1984,Recovering,Caucasian
+1985,Recovered,Black
+1986,Recovering,Asian
+1987,Not recovered,Hispanic
+1988,Not recovered,Asian
+1989,Recovered,Asian
+1990,Recovered,Latino
+1991,Not recovered,Caucasian
+1992,Recovering,Asian
+1993,Recovered,Caucasian
+1994,Recovering,Hispanic
+1995,Not recovered,Hispanic
+1996,Unknown,Caucasian
+1997,Recovering,Asian
+1998,Recovered,Caucasian
+1999,Not recovered,Hispanic
+2000,Recovering,Hispanic
+2001,Recovering,Hispanic
+2002,Unknown,Caucasian
+2003,Not recovered,Black
+2004,Not recovered,Asian
+2005,Not recovered,Caucasian
+2006,Recovering,Black
+2007,Not recovered,Asian
+2008,Recovered,Hispanic
+2009,Recovered,Asian
+2010,Not recovered,Caucasian
+2011,Recovering,Black
+2012,Recovered,Asian
+2013,Recovering,Caucasian
+2014,Not recovered,Black
+2015,Unknown,Asian
+2016,Recovering,Hispanic
+2017,Recovered,Asian
+2018,Not recovered,Asian
+2019,Recovering,Latino
+2020,Recovering,Caucasian
+2021,Unknown,Asian
+2022,Not recovered,Caucasian
+2023,Not recovered,Hispanic
+2024,Not recovered,Hispanic
+2025,Recovering,Caucasian
+2026,Not recovered,Asian
+2027,Recovered,Caucasian
+2028,Recovered,Hispanic
+2029,Not recovered,Hispanic
+2030,Recovering,Hispanic
+2031,Recovered,Caucasian
+2032,Recovering,Black
+2033,Not recovered,Asian
+2034,Not recovered,Caucasian
+2035,Recovered,Black
+2036,Recovered,Asian
+2037,Not recovered,Hispanic
+2038,Recovering,Asian
+2039,Recovered,Caucasian
+2040,Recovering,Black
+2041,Not recovered,Asian
+2042,Unknown,Caucasian
+2043,Recovering,Black
+2044,Recovered,Asian
+2045,Not recovered,Hispanic
+2046,Recovering,Asian
+2047,Recovering,Asian
+2048,Unknown,Latino
+2049,Not recovered,Caucasian
+2050,Not recovered,Asian
+2051,Not recovered,Caucasian
+2052,Recovering,Hispanic
+2053,Not recovered,Hispanic
+2054,Recovered,Caucasian
+2055,Recovered,Asian
+2056,Not recovered,Caucasian
+2057,Recovering,Hispanic
+2058,Recovered,Hispanic
+2059,Recovering,Hispanic
+2060,Not recovered,Caucasian
+2061,Unknown,Black
+2062,Recovering,Asian
+2063,Recovered,Caucasian
+2064,Not recovered,Black
+2065,Recovering,Asian
+2066,Recovering,Hispanic
+2067,Unknown,Asian
+2068,Not recovered,Caucasian
+2069,Not recovered,Black
+2070,Not recovered,Asian
+2071,Recovering,Caucasian
+2072,Not recovered,Black
+2073,Recovered,Asian
+2074,Recovered,Hispanic
+2075,Not recovered,Asian
+2076,Recovering,Asian
+2077,Recovered,Latino
+2078,Recovering,Caucasian
+2079,Not recovered,Asian
+2080,Not recovered,Caucasian
+2081,Recovered,Hispanic
+2082,Recovered,Hispanic
+2083,Not recovered,Caucasian
+2084,Recovering,Asian
+2085,Recovered,Caucasian
+2086,Recovering,Hispanic
+2087,Not recovered,Hispanic
+2088,Unknown,Hispanic
+2089,Recovering,Caucasian
+2090,Recovered,Black
+2091,Not recovered,Asian
+2092,Recovering,Caucasian
+2093,Recovering,Black
+2094,Unknown,Asian
+2095,Not recovered,Hispanic
+2096,Not recovered,Asian
+2097,Not recovered,Caucasian
+2098,Recovering,Black
+2099,Not recovered,Asian
+2100,Recovered,Caucasian
+2101,Recovered,Black
+2102,Not recovered,Asian
+2103,Recovering,Hispanic
+2104,Recovered,Asian
+2105,Recovering,Asian
+2106,Not recovered,Latino
+2107,Unknown,Caucasian
+2108,Recovering,Asian
+2109,Recovered,Caucasian
+2110,Not recovered,Hispanic
+2111,Recovering,Hispanic
+2112,Recovering,Caucasian
+2113,Unknown,Asian
+2114,Not recovered,Caucasian
+2115,Not recovered,Hispanic
+2116,Not recovered,Hispanic
+2117,Recovering,Hispanic
+2118,Not recovered,Caucasian
+2119,Recovered,Black
+2120,Recovered,Asian
+2121,Not recovered,Caucasian
+2122,Recovering,Black
+2123,Recovered,Asian
+2124,Recovering,Hispanic
+2125,Not recovered,Asian
+2126,Not recovered,Caucasian
+2127,Recovered,Black
+2128,Recovered,Asian
+2129,Not recovered,Caucasian
+2130,Recovering,Black
+2131,Recovered,Asian
+2132,Recovering,Hispanic
+2133,Not recovered,Asian
+2134,Unknown,Asian
+2135,Recovering,Latino
+2136,Recovered,Caucasian
+2137,Not recovered,Asian
+2138,Recovering,Caucasian
+2139,Recovering,Hispanic
+2140,Unknown,Hispanic
+2141,Not recovered,Caucasian
+2142,Not recovered,Asian
+2143,Not recovered,Caucasian
+2144,Recovering,Hispanic
+2145,Not recovered,Hispanic
+2146,Recovered,Hispanic
+2147,Recovered,Caucasian
+2148,Not recovered,Black
+2149,Recovering,Asian
+2150,Recovered,Caucasian
+2151,Recovering,Black
+2152,Not recovered,Asian
+2153,Unknown,Hispanic
+2154,Recovering,Asian
+2155,Recovered,Caucasian
+2156,Not recovered,Black
+2157,Recovering,Asian
+2158,Recovering,Caucasian
+2159,Unknown,Black
+2160,Not recovered,Asian
+2161,Not recovered,Hispanic
+2162,Not recovered,Asian
+2163,Recovering,Asian
+2164,Not recovered,Latino
+2165,Recovered,Caucasian
+2166,Recovered,Asian
+2167,Not recovered,Caucasian
+2168,Recovering,Hispanic
+2169,Recovered,Hispanic
+2170,Recovering,Caucasian
+2171,Not recovered,Asian
+2172,Not recovered,Caucasian
+2173,Recovered,Hispanic
+2174,Recovered,Hispanic
+2175,Not recovered,Hispanic
+2176,Recovering,Caucasian
+2177,Recovered,Black
+2178,Recovering,Asian
+2179,Not recovered,Caucasian
+2180,Unknown,Black
+2181,Recovering,Asian
+2182,Recovered,Hispanic
+2183,Not recovered,Asian
+2184,Recovering,Caucasian
+2185,Recovering,Black
+2186,Unknown,Asian
+2187,Not recovered,Caucasian
+2188,Not recovered,Black
+2189,Not recovered,Asian
+2190,Recovering,Hispanic
+2191,Not recovered,Asian
+2192,Recovered,Asian
+2193,Recovered,Latino
+2194,Not recovered,Caucasian
+2195,Recovering,Asian
+2196,Recovered,Caucasian
+2197,Recovering,Hispanic
+2198,Not recovered,Hispanic
+2199,Unknown,Caucasian
+2200,Recovering,Asian
+2201,Recovered,Caucasian
+2202,Not recovered,Hispanic
+2203,Recovering,Hispanic
+2204,Recovering,Hispanic
+2205,Unknown,Caucasian
+2206,Not recovered,Black
+2207,Not recovered,Asian
+2208,Not recovered,Caucasian
+2209,Recovering,Black
+2210,Not recovered,Asian
+2211,Recovered,Hispanic
+2212,Recovered,Asian
+2213,Not recovered,Caucasian
+2214,Recovering,Black
+2215,Recovered,Asian
+2216,Recovering,Caucasian
+2217,Not recovered,Black
+2218,Not recovered,Asian
+2219,Recovered,Hispanic
+2220,Recovered,Asian
+2221,Not recovered,Asian
+2222,Recovering,Latino
+2223,Recovered,Caucasian
+2224,Recovering,Asian
+2225,Not recovered,Caucasian
+2226,Unknown,Hispanic
+2227,Recovering,Hispanic
+2228,Recovered,Caucasian
+2229,Not recovered,Asian
+2230,Recovering,Caucasian
+2231,Recovering,Hispanic
+2232,Unknown,Hispanic
+2233,Not recovered,Hispanic
+2234,Not recovered,Caucasian
+2235,Not recovered,Black
+2236,Recovering,Asian
+2237,Not recovered,Caucasian
+2238,Recovered,Black
+2239,Recovered,Asian
+2240,Not recovered,Hispanic
+2241,Recovering,Asian
+2242,Recovered,Caucasian
+2243,Recovering,Black
+2244,Not recovered,Asian
+2245,Unknown,Caucasian
+2246,Recovering,Black
+2247,Recovered,Asian
+2248,Not recovered,Hispanic
+2249,Recovering,Asian
+2250,Recovering,Asian
+2251,Unknown,Latino
+2252,Not recovered,Caucasian
+2253,Not recovered,Asian
+2254,Not recovered,Caucasian
+2255,Recovering,Hispanic
+2256,Not recovered,Hispanic
+2257,Recovered,Caucasian
+2258,Recovered,Asian
+2259,Not recovered,Caucasian
+2260,Recovering,Hispanic
+2261,Recovered,Hispanic
+2262,Recovering,Hispanic
+2263,Not recovered,Caucasian
+2264,Not recovered,Black
+2265,Recovered,Asian
+2266,Recovered,Caucasian
+2267,Not recovered,Black
+2268,Recovering,Asian
+2269,Recovered,Hispanic
+2270,Recovering,Asian
+2271,Not recovered,Caucasian
+2272,Unknown,Black
+2273,Recovering,Asian
+2274,Recovered,Caucasian
+2275,Not recovered,Black
+2276,Recovering,Asian
+2277,Recovering,Hispanic
+2278,Unknown,Asian
+2279,Not recovered,Asian
+2280,Not recovered,Latino
+2281,Not recovered,Caucasian
+2282,Recovering,Asian
+2283,Not recovered,Caucasian
+2284,Recovered,Hispanic
+2285,Recovered,Hispanic
+2286,Not recovered,Caucasian
+2287,Recovering,Asian
+2288,Recovered,Caucasian
+2289,Recovering,Hispanic
+2290,Not recovered,Hispanic
+2291,Unknown,Hispanic
+2292,Recovering,Caucasian
+2293,Recovered,Black
+2294,Not recovered,Asian
+2295,Recovering,Caucasian
+2296,Recovering,Black
+2297,Unknown,Asian
+2298,Not recovered,Hispanic
+2299,Not recovered,Asian
+2300,Not recovered,Caucasian
+2301,Recovering,Black
+2302,Not recovered,Asian
+2303,Recovered,Caucasian
+2304,Recovered,Black
+2305,Not recovered,Asian
+2306,Recovering,Hispanic
+2307,Recovered,Asian
+2308,Recovering,Asian
+2309,Not recovered,Latino
+2310,Not recovered,Caucasian
+2311,Recovered,Asian
+2312,Recovered,Caucasian
+2313,Not recovered,Hispanic
+2314,Recovering,Hispanic
+2315,Recovered,Caucasian
+2316,Recovering,Asian
+2317,Not recovered,Caucasian
+2318,Unknown,Hispanic
+2319,Recovering,Hispanic
+2320,Recovered,Hispanic
+2321,Not recovered,Caucasian
+2322,Recovering,Black
+2323,Recovering,Asian
+2324,Unknown,Caucasian
+2325,Not recovered,Black
+2326,Not recovered,Asian
+2327,Not recovered,Hispanic
+2328,Recovering,Asian
+2329,Not recovered,Caucasian
+2330,Recovered,Black
+2331,Recovered,Asian
+2332,Not recovered,Caucasian
+2333,Recovering,Black
+2334,Recovered,Asian
+2335,Recovering,Hispanic
+2336,Not recovered,Asian
+2337,Unknown,Asian
+2338,Recovering,Latino
+2339,Recovered,Caucasian
+2340,Not recovered,Asian
+2341,Recovering,Caucasian
+2342,Recovering,Hispanic
+2343,Unknown,Hispanic
+2344,Not recovered,Caucasian
+2345,Not recovered,Asian
+2346,Not recovered,Caucasian
+2347,Recovering,Hispanic
+2348,Not recovered,Hispanic
+2349,Recovered,Hispanic
+2350,Recovered,Caucasian
+2351,Not recovered,Black
+2352,Recovering,Asian
+2353,Recovered,Caucasian
+2354,Recovering,Black
+2355,Not recovered,Asian
+2356,Not recovered,Hispanic
+2357,Recovered,Asian
+2358,Recovered,Caucasian
+2359,Not recovered,Black
+2360,Recovering,Asian
+2361,Recovered,Caucasian
+2362,Recovering,Black
+2363,Not recovered,Asian
+2364,Unknown,Hispanic
+2365,Recovering,Asian
+2366,Recovered,Asian
+2367,Not recovered,Latino
+2368,Recovering,Caucasian
+2369,Recovering,Asian
+2370,Unknown,Caucasian
+2371,Not recovered,Hispanic
+2372,Not recovered,Hispanic
+2373,Not recovered,Caucasian
+2374,Recovering,Asian
+2375,Not recovered,Caucasian
+2376,Recovered,Hispanic
+2377,Recovered,Hispanic
+2378,Not recovered,Hispanic
+2379,Recovering,Caucasian
+2380,Recovered,Black
+2381,Recovering,Asian
+2382,Not recovered,Caucasian
+2383,Unknown,Black
+2384,Recovering,Asian
+2385,Recovered,Hispanic
+2386,Not recovered,Asian
+2387,Recovering,Caucasian
+2388,Recovering,Black
+2389,Unknown,Asian
+2390,Not recovered,Caucasian
+2391,Not recovered,Black
+2392,Not recovered,Asian
+2393,Recovering,Hispanic
+2394,Not recovered,Asian
+2395,Recovered,Asian
+2396,Recovered,Latino
+2397,Not recovered,Caucasian
+2398,Recovering,Asian
+2399,Recovered,Caucasian
+2400,Recovering,Hispanic
+2401,Not recovered,Hispanic
+2402,Not recovered,Caucasian
+2403,Recovered,Asian
+2404,Recovered,Caucasian
+2405,Not recovered,Hispanic
+2406,Recovering,Hispanic
+2407,Recovered,Hispanic
+2408,Recovering,Caucasian
+2409,Not recovered,Black
+2410,Unknown,Asian
+2411,Recovering,Caucasian
+2412,Recovered,Black
+2413,Not recovered,Asian
+2414,Recovering,Hispanic
+2415,Recovering,Asian
+2416,Unknown,Caucasian
+2417,Not recovered,Black
+2418,Not recovered,Asian
+2419,Not recovered,Caucasian
+2420,Recovering,Black
+2421,Not recovered,Asian
+2422,Recovered,Hispanic
+2423,Recovered,Asian
+2424,Not recovered,Asian
+2425,Recovering,Latino
+2426,Recovered,Caucasian
+2427,Recovering,Asian
+2428,Not recovered,Caucasian
+2429,Unknown,Hispanic
+2430,Recovering,Hispanic
+2431,Recovered,Caucasian
+2432,Not recovered,Asian
+2433,Recovering,Caucasian
+2434,Recovering,Hispanic
+2435,Unknown,Hispanic
+2436,Not recovered,Hispanic
+2437,Not recovered,Caucasian
+2438,Not recovered,Black
+2439,Recovering,Asian
+2440,Not recovered,Caucasian
+2441,Recovered,Black
+2442,Recovered,Asian
+2443,Not recovered,Hispanic
+2444,Recovering,Asian
+2445,Recovered,Caucasian
+2446,Recovering,Black
+2447,Not recovered,Asian
+2448,Not recovered,Caucasian
+2449,Recovered,Black
+2450,Recovered,Asian
+2451,Not recovered,Hispanic
+2452,Recovering,Asian
+2453,Recovered,Asian
+2454,Recovering,Latino
+2455,Not recovered,Caucasian
+2456,Unknown,Asian
+2457,Recovering,Caucasian
+2458,Recovered,Hispanic
+2459,Not recovered,Hispanic
+2460,Recovering,Caucasian
+2461,Recovering,Asian
+2462,Unknown,Caucasian
+2463,Not recovered,Hispanic
+2464,Not recovered,Hispanic
+2465,Not recovered,Hispanic
+2466,Recovering,Caucasian
+2467,Not recovered,Black
+2468,Recovered,Asian
+2469,Recovered,Caucasian
+2470,Not recovered,Black
+2471,Recovering,Asian
+2472,Recovered,Hispanic
+2473,Recovering,Asian
+2474,Not recovered,Caucasian
+2475,Unknown,Black
+2476,Recovering,Asian
+2477,Recovered,Caucasian
+2478,Not recovered,Black
+2479,Recovering,Asian
+2480,Recovering,Hispanic
+2481,Unknown,Asian
+2482,Not recovered,Asian
+2483,Not recovered,Latino
+2484,Not recovered,Caucasian
+2485,Recovering,Asian
+2486,Not recovered,Caucasian
+2487,Recovered,Hispanic
+2488,Recovered,Hispanic
+2489,Not recovered,Caucasian
+2490,Recovering,Asian
+2491,Recovered,Caucasian
+2492,Recovering,Hispanic
+2493,Not recovered,Hispanic
+2494,Not recovered,Hispanic
+2495,Recovered,Caucasian
+2496,Recovered,Black
+2497,Not recovered,Asian
+2498,Recovering,Caucasian
+2499,Recovered,Black
+2500,Recovering,Asian
+2501,Not recovered,Hispanic
+2502,Unknown,Asian
+2503,Recovering,Caucasian
+2504,Recovered,Black
+2505,Not recovered,Asian
+2506,Recovering,Caucasian
+2507,Recovering,Black
+2508,Unknown,Asian
+2509,Not recovered,Hispanic
+2510,Not recovered,Asian
+2511,Not recovered,Asian
+2512,Recovering,Latino
+2513,Not recovered,Caucasian
+2514,Recovered,Asian
+2515,Recovered,Caucasian
+2516,Not recovered,Hispanic
+2517,Recovering,Hispanic
+2518,Recovered,Caucasian
+2519,Recovering,Asian
+2520,Not recovered,Caucasian
+2521,Unknown,Hispanic
+2522,Recovering,Hispanic
+2523,Recovered,Hispanic
+2524,Not recovered,Caucasian
+2525,Recovering,Black
+2526,Recovering,Asian
+2527,Unknown,Caucasian
+2528,Not recovered,Black
+2529,Not recovered,Asian
+2530,Not recovered,Hispanic
+2531,Recovering,Asian
+2532,Not recovered,Caucasian
+2533,Recovered,Black
+2534,Recovered,Asian
+2535,Not recovered,Caucasian
+2536,Recovering,Black
+2537,Recovered,Asian
+2538,Recovering,Hispanic
+2539,Not recovered,Asian
+2540,Not recovered,Asian
+2541,Recovered,Latino
+2542,Recovered,Caucasian
+2543,Not recovered,Asian
+2544,Recovering,Caucasian
+2545,Recovered,Hispanic
+2546,Recovering,Hispanic
+2547,Not recovered,Caucasian
+2548,Unknown,Asian
+2549,Recovering,Caucasian
+2550,Recovered,Hispanic
+2551,Not recovered,Hispanic
+2552,Recovering,Hispanic
+2553,Recovering,Caucasian
+2554,Unknown,Black
+2555,Not recovered,Asian
+2556,Not recovered,Caucasian
+2557,Not recovered,Black
+2558,Recovering,Asian
+2559,Not recovered,Hispanic
+2560,Recovered,Asian
+2561,Recovered,Caucasian
+2562,Not recovered,Black
+2563,Recovering,Asian
+2564,Recovered,Caucasian
+2565,Recovering,Black
+2566,Not recovered,Asian
+2567,Unknown,Hispanic
+2568,Recovering,Asian
+2569,Recovered,Asian
+2570,Not recovered,Latino
+2571,Recovering,Caucasian
+2572,Recovering,Asian
+2573,Unknown,Caucasian
+2574,Not recovered,Hispanic
+2575,Not recovered,Hispanic
+2576,Not recovered,Caucasian
+2577,Recovering,Asian
+2578,Not recovered,Caucasian
+2579,Recovered,Hispanic
+2580,Recovered,Hispanic
+2581,Not recovered,Hispanic
+2582,Recovering,Caucasian
+2583,Recovered,Black
+2584,Recovering,Asian
+2585,Not recovered,Caucasian
+2586,Not recovered,Black
+2587,Recovered,Asian
+2588,Recovered,Hispanic
+2589,Not recovered,Asian
+2590,Recovering,Caucasian
+2591,Recovered,Black
+2592,Recovering,Asian
+2593,Not recovered,Caucasian
+2594,Unknown,Black
+2595,Recovering,Asian
+2596,Recovered,Hispanic
+2597,Not recovered,Asian
+2598,Recovering,Asian
+2599,Recovering,Latino
+2600,Unknown,Caucasian
+2601,Not recovered,Asian
+2602,Not recovered,Caucasian
+2603,Not recovered,Hispanic
+2604,Recovering,Hispanic
+2605,Not recovered,Caucasian
+2606,Recovered,Asian
+2607,Recovered,Caucasian
+2608,Not recovered,Hispanic
+2609,Recovering,Hispanic
+2610,Recovered,Hispanic
+2611,Recovering,Caucasian
+2612,Not recovered,Black
+2613,Unknown,Asian
+2614,Recovering,Caucasian
+2615,Recovered,Black
+2616,Not recovered,Asian
+2617,Recovering,Hispanic
+2618,Recovering,Asian
+2619,Unknown,Caucasian
+2620,Not recovered,Black
+2621,Not recovered,Asian
+2622,Not recovered,Caucasian
+2623,Recovering,Black
+2624,Not recovered,Asian
+2625,Recovered,Hispanic
+2626,Recovered,Asian
+2627,Not recovered,Asian
+2628,Recovering,Latino
+2629,Recovered,Caucasian
+2630,Recovering,Asian
+2631,Not recovered,Caucasian
+2632,Not recovered,Hispanic
+2633,Recovered,Hispanic
+2634,Recovered,Caucasian
+2635,Not recovered,Asian
+2636,Recovering,Caucasian
+2637,Recovered,Hispanic
+2638,Recovering,Hispanic
+2639,Not recovered,Hispanic
+2640,Unknown,Caucasian
+2641,Recovering,Black
+2642,Recovered,Asian
+2643,Not recovered,Caucasian
+2644,Recovering,Black
+2645,Recovering,Asian
+2646,Unknown,Hispanic
+2647,Not recovered,Asian
+2648,Not recovered,Caucasian
+2649,Not recovered,Black
+2650,Recovering,Asian
+2651,Not recovered,Caucasian
+2652,Recovered,Black
+2653,Recovered,Asian
+2654,Not recovered,Hispanic
+2655,Recovering,Asian
+2656,Recovered,Asian
+2657,Recovering,Latino
+2658,Not recovered,Caucasian
+2659,Unknown,Asian
+2660,Recovering,Caucasian
+2661,Recovered,Hispanic
+2662,Not recovered,Hispanic
+2663,Recovering,Caucasian
+2664,Recovering,Asian
+2665,Unknown,Caucasian
+2666,Not recovered,Hispanic
+2667,Not recovered,Hispanic
+2668,Not recovered,Hispanic
+2669,Recovering,Caucasian
+2670,Not recovered,Black
+2671,Recovered,Asian
+2672,Recovered,Caucasian
+2673,Not recovered,Black
+2674,Recovering,Asian
+2675,Recovered,Hispanic
+2676,Recovering,Asian
+2677,Not recovered,Caucasian
+2678,Not recovered,Black
+2679,Recovered,Asian
+2680,Recovered,Caucasian
+2681,Not recovered,Black
+2682,Recovering,Asian
+2683,Recovered,Hispanic
+2684,Recovering,Asian
+2685,Not recovered,Asian
+2686,Unknown,Latino
+2687,Recovering,Caucasian
+2688,Recovered,Asian
+2689,Not recovered,Caucasian
+2690,Recovering,Hispanic
+2691,Recovering,Hispanic
+2692,Unknown,Caucasian
+2693,Not recovered,Asian
+2694,Not recovered,Caucasian
+2695,Not recovered,Hispanic
+2696,Recovering,Hispanic
+2697,Not recovered,Hispanic
+2698,Recovered,Caucasian
+2699,Recovered,Black
+2700,Not recovered,Asian
+2701,Recovering,Caucasian
+2702,Recovered,Black
+2703,Recovering,Asian
+2704,Not recovered,Hispanic
+2705,Unknown,Asian
+2706,Recovering,Caucasian
+2707,Recovered,Black
+2708,Not recovered,Asian
+2709,Recovering,Caucasian
+2710,Recovering,Black
+2711,Unknown,Asian
+2712,Not recovered,Hispanic
+2713,Not recovered,Asian
+2714,Not recovered,Asian
+2715,Recovering,Latino
+2716,Not recovered,Caucasian
+2717,Recovered,Asian
+2718,Recovered,Caucasian
+2719,Not recovered,Hispanic
+2720,Recovering,Hispanic
+2721,Recovered,Caucasian
+2722,Recovering,Asian
+2723,Not recovered,Caucasian
+2724,Not recovered,Hispanic
+2725,Recovered,Hispanic
+2726,Recovered,Hispanic
+2727,Not recovered,Caucasian
+2728,Recovering,Black
+2729,Recovered,Asian
+2730,Recovering,Caucasian
+2731,Not recovered,Black
+2732,Unknown,Asian
+2733,Recovering,Hispanic
+2734,Recovered,Asian
+2735,Not recovered,Caucasian
+2736,Recovering,Black
+2737,Recovering,Asian
+2738,Unknown,Caucasian
+2739,Not recovered,Black
+2740,Not recovered,Asian
+2741,Not recovered,Hispanic
+2742,Recovering,Asian
+2743,Not recovered,Asian
+2744,Recovered,Latino
+2745,Recovered,Caucasian
+2746,Not recovered,Asian
+2747,Recovering,Caucasian
+2748,Recovered,Hispanic
+2749,Recovering,Hispanic
+2750,Not recovered,Caucasian
+2751,Unknown,Asian
+2752,Recovering,Caucasian
+2753,Recovered,Hispanic
+2754,Not recovered,Hispanic
+2755,Recovering,Hispanic
+2756,Recovering,Caucasian
+2757,Unknown,Black
+2758,Not recovered,Asian
+2759,Not recovered,Caucasian
+2760,Not recovered,Black
+2761,Recovering,Asian
+2762,Not recovered,Hispanic
+2763,Recovered,Asian
+2764,Recovered,Caucasian
+2765,Not recovered,Black
+2766,Recovering,Asian
+2767,Recovered,Caucasian
+2768,Recovering,Black
+2769,Not recovered,Asian
+2770,Not recovered,Hispanic
+2771,Recovered,Asian
+2772,Recovered,Asian
+2773,Not recovered,Latino
+2774,Recovering,Caucasian
+2775,Recovered,Asian
+2776,Recovering,Caucasian
+2777,Not recovered,Hispanic
+2778,Unknown,Hispanic
+2779,Recovering,Caucasian
+2780,Recovered,Asian
+2781,Not recovered,Caucasian
+2782,Recovering,Hispanic
+2783,Recovering,Hispanic
+2784,Unknown,Hispanic
+2785,Not recovered,Caucasian
+2786,Not recovered,Black
+2787,Not recovered,Asian
+2788,Recovering,Caucasian
+2789,Not recovered,Black
+2790,Recovered,Asian
+2791,Recovered,Hispanic
+2792,Not recovered,Asian
+2793,Recovering,Caucasian
+2794,Recovered,Hispanic
+2795,Recovering,Asian
+2796,Not recovered,Asian
+2797,Unknown,Latino
+2798,Recovering,Caucasian
+2799,Recovered,Asian
+2800,Not recovered,Caucasian
+2801,Recovering,Hispanic
+2802,Recovering,Hispanic
+2803,Unknown,Caucasian
+2804,Not recovered,Asian
+2805,Not recovered,Caucasian
+2806,Not recovered,Hispanic
+2807,Recovering,Hispanic
+2808,Not recovered,Hispanic
+2809,Recovered,Caucasian
+2810,Recovered,Black
+2811,Not recovered,Asian
+2812,Recovering,Caucasian
+2813,Recovered,Black
+2814,Recovering,Asian
+2815,Not recovered,Hispanic
+2816,Not recovered,Asian
+2817,Recovered,Caucasian
+2818,Recovered,Black
+2819,Not recovered,Asian
+2820,Recovering,Caucasian
+2821,Recovered,Black
+2822,Recovering,Asian
+2823,Not recovered,Hispanic
+2824,Unknown,Asian
+2825,Recovering,Asian
+2826,Recovered,Latino
+2827,Not recovered,Caucasian
+2828,Recovering,Asian
+2829,Recovering,Caucasian
+2830,Unknown,Hispanic
+2831,Not recovered,Hispanic
+2832,Not recovered,Caucasian
+2833,Not recovered,Asian
+2834,Recovering,Caucasian
+2835,Not recovered,Hispanic
+2836,Recovered,Hispanic
+2837,Recovered,Hispanic
+2838,Not recovered,Caucasian
+2839,Recovering,Black
+2840,Recovered,Asian
+2841,Recovering,Caucasian
+2842,Not recovered,Black
+2843,Unknown,Asian
+2844,Recovering,Hispanic
+2845,Recovered,Asian
+2846,Not recovered,Caucasian
+2847,Recovering,Hispanic
+2848,Recovering,Asian
+2849,Unknown,Asian
+2850,Not recovered,Latino
+2851,Not recovered,Caucasian
+2852,Not recovered,Asian
+2853,Recovering,Caucasian
+2854,Not recovered,Hispanic
+2855,Recovered,Hispanic
+2856,Recovered,Caucasian
+2857,Not recovered,Asian
+2858,Recovering,Caucasian
+2859,Recovered,Hispanic
+2860,Recovering,Hispanic
+2861,Not recovered,Hispanic
+2862,Not recovered,Caucasian
+2863,Recovered,Black
+2864,Recovered,Asian
+2865,Not recovered,Caucasian
+2866,Recovering,Black
+2867,Recovered,Asian
+2868,Recovering,Hispanic
+2869,Not recovered,Asian
+2870,Unknown,Caucasian
+2871,Recovering,Black
+2872,Recovered,Asian
+2873,Not recovered,Caucasian
+2874,Recovering,Black
+2875,Recovering,Asian
+2876,Unknown,Hispanic
+2877,Not recovered,Asian
+2878,Not recovered,Asian
+2879,Not recovered,Latino
+2880,Recovering,Caucasian
+2881,Not recovered,Asian
+2882,Recovered,Caucasian
+2883,Recovered,Hispanic
+2884,Not recovered,Hispanic
+2885,Recovering,Caucasian
+2886,Recovered,Asian
+2887,Recovering,Caucasian
+2888,Not recovered,Hispanic
+2889,Unknown,Hispanic
+2890,Recovering,Hispanic
+2891,Recovered,Caucasian
+2892,Not recovered,Black
+2893,Recovering,Asian
+2894,Recovering,Caucasian
+2895,Unknown,Black
+2896,Not recovered,Asian
+2897,Not recovered,Hispanic
+2898,Not recovered,Asian
+2899,Recovering,Caucasian
+2900,Not recovered,Hispanic
+2901,Recovered,Asian
+2902,Recovered,Asian
+2903,Not recovered,Latino
+2904,Recovering,Caucasian
+2905,Recovered,Asian
+2906,Recovering,Caucasian
+2907,Not recovered,Hispanic
+2908,Not recovered,Hispanic
+2909,Recovered,Caucasian
+2910,Recovered,Asian
+2911,Not recovered,Caucasian
+2912,Recovering,Hispanic
+2913,Recovered,Hispanic
+2914,Recovering,Hispanic
+2915,Not recovered,Caucasian
+2916,Unknown,Black
+2917,Recovering,Asian
+2918,Recovered,Caucasian
+2919,Not recovered,Black
+2920,Recovering,Asian
+2921,Recovering,Hispanic
+2922,Unknown,Asian
+2923,Not recovered,Caucasian
+2924,Not recovered,Black
+2925,Not recovered,Asian
+2926,Recovering,Caucasian
+2927,Not recovered,Black
+2928,Recovered,Asian
+2929,Recovered,Hispanic
+2930,Not recovered,Asian
+2931,Recovering,Asian
+2932,Recovered,Latino
+2933,Recovering,Caucasian
+2934,Not recovered,Asian
+2935,Unknown,Caucasian
+2936,Recovering,Hispanic
+2937,Recovered,Hispanic
+2938,Not recovered,Caucasian
+2939,Recovering,Asian
+2940,Recovering,Caucasian
+2941,Unknown,Hispanic
+2942,Not recovered,Hispanic
+2943,Not recovered,Hispanic
+2944,Not recovered,Caucasian
+2945,Recovering,Black
+2946,Not recovered,Asian
+2947,Recovered,Caucasian
+2948,Recovered,Black
+2949,Not recovered,Asian
+2950,Recovering,Hispanic
+2951,Recovered,Asian
+2952,Recovering,Caucasian
+2953,Not recovered,Hispanic
+2954,Not recovered,Asian
+2955,Recovered,Asian
+2956,Recovered,Latino
+2957,Not recovered,Caucasian
+2958,Recovering,Asian
+2959,Recovered,Caucasian
+2960,Recovering,Hispanic
+2961,Not recovered,Hispanic
+2962,Unknown,Caucasian
+2963,Recovering,Asian
+2964,Recovered,Caucasian
+2965,Not recovered,Hispanic
+2966,Recovering,Hispanic
+2967,Recovering,Hispanic
+2968,Unknown,Caucasian
+2969,Not recovered,Black
+2970,Not recovered,Asian
+2971,Not recovered,Caucasian
+2972,Recovering,Black
+2973,Not recovered,Asian
+2974,Recovered,Hispanic
+2975,Recovered,Asian
+2976,Not recovered,Caucasian
+2977,Recovering,Black
+2978,Recovered,Asian
+2979,Recovering,Caucasian
+2980,Not recovered,Black
+2981,Unknown,Asian
+2982,Recovering,Hispanic
+2983,Recovered,Asian
+2984,Not recovered,Asian
+2985,Recovering,Latino
+2986,Recovering,Caucasian
+2987,Unknown,Asian
+2988,Not recovered,Caucasian
+2989,Not recovered,Hispanic
+2990,Not recovered,Hispanic
+2991,Recovering,Caucasian
+2992,Not recovered,Asian
+2993,Recovered,Caucasian
+2994,Recovered,Hispanic
+2995,Not recovered,Hispanic
+2996,Recovering,Hispanic
+2997,Recovered,Caucasian
+2998,Recovering,Black
+2999,Not recovered,Asian
+3000,Not recovered,Caucasian
+3001,Recovered,Black
+3002,Recovered,Asian
+3003,Not recovered,Hispanic
+3004,Recovering,Asian
+3005,Recovered,Caucasian
+3006,Recovering,Hispanic
+3007,Not recovered,Asian
+3008,Unknown,Asian
+3009,Recovering,Latino
+3010,Recovered,Caucasian
+3011,Not recovered,Asian
+3012,Recovering,Caucasian
+3013,Recovering,Hispanic
+3014,Unknown,Hispanic
+3015,Not recovered,Caucasian
+3016,Not recovered,Asian
+3017,Not recovered,Caucasian
+3018,Recovering,Hispanic
+3019,Not recovered,Hispanic
+3020,Recovered,Hispanic
+3021,Recovered,Caucasian
+3022,Not recovered,Black
+3023,Recovering,Asian
+3024,Recovered,Caucasian
+3025,Recovering,Black
+3026,Not recovered,Asian
+3027,Unknown,Hispanic
+3028,Recovering,Asian
+3029,Recovered,Caucasian
+3030,Not recovered,Black
+3031,Recovering,Asian
+3032,Recovering,Caucasian
+3033,Unknown,Black
+3034,Not recovered,Asian
+3035,Not recovered,Hispanic
+3036,Not recovered,Asian
+3037,Recovering,Asian
+3038,Not recovered,Latino
+3039,Recovered,Caucasian
+3040,Recovered,Asian
+3041,Not recovered,Caucasian
+3042,Recovering,Hispanic
+3043,Recovered,Hispanic
+3044,Recovering,Caucasian
+3045,Not recovered,Asian
+3046,Not recovered,Caucasian
+3047,Recovered,Hispanic
+3048,Recovered,Hispanic
+3049,Not recovered,Hispanic
+3050,Recovering,Caucasian
+3051,Recovered,Black
+3052,Recovering,Asian
+3053,Not recovered,Caucasian
+3054,Unknown,Black
+3055,Recovering,Asian
+3056,Recovered,Hispanic
+3057,Not recovered,Asian
+3058,Recovering,Caucasian
+3059,Recovering,Hispanic
+3060,Unknown,Asian
+3061,Not recovered,Asian
+3062,Not recovered,Latino
+3063,Not recovered,Caucasian
+3064,Recovering,Asian
+3065,Not recovered,Caucasian
+3066,Recovered,Hispanic
+3067,Recovered,Hispanic
+3068,Not recovered,Caucasian
+3069,Recovering,Asian
+3070,Recovered,Caucasian
+3071,Recovering,Hispanic
+3072,Not recovered,Hispanic
+3073,Unknown,Hispanic
+3074,Recovering,Caucasian
+3075,Recovered,Black
+3076,Not recovered,Asian
+3077,Recovering,Caucasian
+3078,Recovering,Black
+3079,Unknown,Asian
+3080,Not recovered,Hispanic
+3081,Not recovered,Asian
+3082,Not recovered,Caucasian
+3083,Recovering,Black
+3084,Not recovered,Asian
+3085,Recovered,Caucasian
+3086,Recovered,Black
+3087,Not recovered,Asian
+3088,Recovering,Hispanic
+3089,Recovered,Asian
+3090,Recovering,Asian
+3091,Not recovered,Latino
+3092,Not recovered,Caucasian
+3093,Recovered,Asian
+3094,Recovered,Caucasian
+3095,Not recovered,Hispanic
+3096,Recovering,Hispanic
+3097,Recovered,Caucasian
+3098,Recovering,Asian
+3099,Not recovered,Caucasian
+3100,Unknown,Hispanic
+3101,Recovering,Hispanic
+3102,Recovered,Hispanic
+3103,Not recovered,Caucasian
+3104,Recovering,Black
+3105,Recovering,Asian
+3106,Unknown,Caucasian
+3107,Not recovered,Black
+3108,Not recovered,Asian
+3109,Not recovered,Hispanic
+3110,Recovering,Asian
+3111,Not recovered,Caucasian
+3112,Recovered,Hispanic
+3113,Recovered,Asian
+3114,Not recovered,Asian
+3115,Recovering,Latino
+3116,Recovered,Caucasian
+3117,Recovering,Asian
+3118,Not recovered,Caucasian
+3119,Unknown,Hispanic
+3120,Recovering,Hispanic
+3121,Recovered,Caucasian
+3122,Not recovered,Asian
+3123,Recovering,Caucasian
+3124,Recovering,Hispanic
+3125,Unknown,Hispanic
+3126,Not recovered,Hispanic
+3127,Not recovered,Caucasian
+3128,Not recovered,Black
+3129,Recovering,Asian
+3130,Not recovered,Caucasian
+3131,Recovered,Black
+3132,Recovered,Asian
+3133,Not recovered,Hispanic
+3134,Recovering,Asian
+3135,Recovered,Caucasian
+3136,Recovering,Black
+3137,Not recovered,Asian
+3138,Not recovered,Caucasian
+3139,Recovered,Black
+3140,Recovered,Asian
+3141,Not recovered,Hispanic
+3142,Recovering,Asian
+3143,Recovered,Asian
+3144,Recovering,Latino
+3145,Not recovered,Caucasian
+3146,Unknown,Asian
+3147,Recovering,Caucasian
+3148,Recovered,Hispanic
+3149,Not recovered,Hispanic
+3150,Recovering,Caucasian
+3151,Recovering,Asian
+3152,Unknown,Caucasian
+3153,Not recovered,Hispanic
+3154,Not recovered,Hispanic
+3155,Not recovered,Hispanic
+3156,Recovering,Caucasian
+3157,Not recovered,Black
+3158,Recovered,Asian
+3159,Recovered,Caucasian
+3160,Not recovered,Black
+3161,Recovering,Asian
+3162,Recovered,Hispanic
+3163,Recovering,Asian
+3164,Not recovered,Caucasian
+3165,Unknown,Hispanic
+3166,Recovering,Asian
+3167,Recovered,Asian
+3168,Not recovered,Latino
+3169,Recovering,Caucasian
+3170,Recovering,Asian
+3171,Unknown,Caucasian
+3172,Not recovered,Hispanic
+3173,Not recovered,Hispanic
+3174,Not recovered,Caucasian
+3175,Recovering,Asian
+3176,Not recovered,Caucasian
+3177,Recovered,Hispanic
+3178,Recovered,Hispanic
+3179,Not recovered,Hispanic
+3180,Recovering,Caucasian
+3181,Recovered,Black
+3182,Recovering,Asian
+3183,Not recovered,Caucasian
+3184,Not recovered,Black
+3185,Recovered,Asian
+3186,Recovered,Hispanic
+3187,Not recovered,Asian
+3188,Recovering,Caucasian
+3189,Recovered,Black
+3190,Recovering,Asian
+3191,Not recovered,Caucasian
+3192,Unknown,Black
+3193,Recovering,Asian
+3194,Recovered,Hispanic
+3195,Not recovered,Asian
+3196,Recovering,Asian
+3197,Recovering,Latino
+3198,Unknown,Caucasian
+3199,Not recovered,Asian
+3200,Not recovered,Caucasian
+3201,Not recovered,Hispanic
+3202,Recovering,Hispanic
+3203,Not recovered,Caucasian
+3204,Recovered,Asian
+3205,Recovered,Caucasian
+3206,Not recovered,Hispanic
+3207,Recovering,Hispanic
+3208,Recovered,Hispanic
+3209,Recovering,Caucasian
+3210,Not recovered,Black
+3211,Unknown,Asian
+3212,Recovering,Caucasian
+3213,Recovered,Black
+3214,Not recovered,Asian
+3215,Recovering,Hispanic
+3216,Recovering,Asian
+3217,Unknown,Caucasian
+3218,Not recovered,Hispanic
+3219,Not recovered,Asian
+3220,Not recovered,Asian
+3221,Recovering,Latino
+3222,Not recovered,Caucasian
+3223,Recovered,Asian
+3224,Recovered,Caucasian
+3225,Not recovered,Hispanic
+3226,Recovering,Hispanic
+3227,Recovered,Caucasian
+3228,Recovering,Asian
+3229,Not recovered,Caucasian
+3230,Not recovered,Hispanic
+3231,Recovered,Hispanic
+3232,Recovered,Hispanic
+3233,Not recovered,Caucasian
+3234,Recovering,Black
+3235,Recovered,Asian
+3236,Recovering,Caucasian
+3237,Not recovered,Black
+3238,Unknown,Asian
+3239,Recovering,Hispanic
+3240,Recovered,Asian
+3241,Not recovered,Caucasian
+3242,Recovering,Black
+3243,Recovering,Asian
+3244,Unknown,Caucasian
+3245,Not recovered,Black
+3246,Not recovered,Asian
+3247,Not recovered,Hispanic
+3248,Recovering,Asian
+3249,Not recovered,Asian
+3250,Recovered,Latino
+3251,Recovered,Caucasian
+3252,Not recovered,Asian
+3253,Recovering,Caucasian
+3254,Recovered,Hispanic
+3255,Recovering,Hispanic
+3256,Not recovered,Caucasian
+3257,Unknown,Asian
+3258,Recovering,Caucasian
+3259,Recovered,Hispanic
+3260,Not recovered,Hispanic
+3261,Recovering,Hispanic
+3262,Recovering,Caucasian
+3263,Unknown,Black
+3264,Not recovered,Asian
+3265,Not recovered,Caucasian
+3266,Not recovered,Black
+3267,Recovering,Asian
+3268,Not recovered,Hispanic
+3269,Recovered,Asian
+3270,Recovered,Caucasian
+3271,Not recovered,Hispanic
+3272,Recovering,Asian
+3273,Recovered,Asian
+3274,Recovering,Latino
+3275,Not recovered,Caucasian
+3276,Not recovered,Asian
+3277,Recovered,Caucasian
+3278,Recovered,Hispanic
+3279,Not recovered,Hispanic
+3280,Recovering,Caucasian
+3281,Recovered,Asian
+3282,Recovering,Caucasian
+3283,Not recovered,Hispanic
+3284,Unknown,Hispanic
+3285,Recovering,Hispanic
+3286,Recovered,Caucasian
+3287,Not recovered,Black
+3288,Recovering,Asian
+3289,Recovering,Caucasian
+3290,Unknown,Black
+3291,Not recovered,Asian
+3292,Not recovered,Hispanic
+3293,Not recovered,Asian
+3294,Recovering,Caucasian
+3295,Not recovered,Black
+3296,Recovered,Asian
+3297,Recovered,Caucasian
+3298,Not recovered,Black
+3299,Recovering,Asian
+3300,Recovered,Hispanic
+3301,Recovering,Asian
+3302,Not recovered,Asian
+3303,Unknown,Latino
+3304,Recovering,Caucasian
+3305,Recovered,Asian
+3306,Not recovered,Caucasian
+3307,Recovering,Hispanic
+3308,Recovering,Hispanic
+3309,Unknown,Caucasian
+3310,Not recovered,Asian
+3311,Not recovered,Caucasian
+3312,Not recovered,Hispanic
+3313,Recovering,Hispanic
+3314,Not recovered,Hispanic
+3315,Recovered,Caucasian
+3316,Recovered,Black
+3317,Not recovered,Asian
+3318,Recovering,Caucasian
+3319,Recovered,Black
+3320,Recovering,Asian
+3321,Not recovered,Hispanic
+3322,Not recovered,Asian
+3323,Recovered,Caucasian
+3324,Recovered,Hispanic
+3325,Not recovered,Asian
+3326,Recovering,Asian
+3327,Recovered,Latino
+3328,Recovering,Caucasian
+3329,Not recovered,Asian
+3330,Unknown,Caucasian
+3331,Recovering,Hispanic
+3332,Recovered,Hispanic
+3333,Not recovered,Caucasian
+3334,Recovering,Asian
+3335,Recovering,Caucasian
+3336,Unknown,Hispanic
+3337,Not recovered,Hispanic
+3338,Not recovered,Hispanic
+3339,Not recovered,Caucasian
+3340,Recovering,Black
+3341,Not recovered,Asian
+3342,Recovered,Caucasian
+3343,Recovered,Black
+3344,Not recovered,Asian
+3345,Recovering,Hispanic
+3346,Recovered,Asian
+3347,Recovering,Caucasian
+3348,Not recovered,Black
+3349,Unknown,Asian
+3350,Recovering,Caucasian
+3351,Recovered,Black
+3352,Not recovered,Asian
+3353,Recovering,Hispanic
+3354,Recovering,Asian
+3355,Unknown,Asian
+3356,Not recovered,Latino
+3357,Not recovered,Caucasian
+3358,Not recovered,Asian
+3359,Recovering,Caucasian
+3360,Not recovered,Hispanic
+3361,Recovered,Hispanic
+3362,Recovered,Caucasian
+3363,Not recovered,Asian
+3364,Recovering,Caucasian
+3365,Recovered,Hispanic
+3366,Recovering,Hispanic
+3367,Not recovered,Hispanic
+3368,Not recovered,Caucasian
+3369,Recovered,Black
+3370,Recovered,Asian
+3371,Not recovered,Caucasian
+3372,Recovering,Black
+3373,Recovered,Asian
+3374,Recovering,Hispanic
+3375,Not recovered,Asian
+3376,Unknown,Caucasian
+3377,Recovering,Hispanic
+3378,Recovered,Asian
+3379,Not recovered,Asian
+3380,Recovering,Latino
+3381,Recovering,Caucasian
+3382,Unknown,Asian
+3383,Not recovered,Caucasian
+3384,Not recovered,Hispanic
+3385,Not recovered,Hispanic
+3386,Recovering,Caucasian
+3387,Not recovered,Asian
+3388,Recovered,Caucasian
+3389,Recovered,Hispanic
+3390,Not recovered,Hispanic
+3391,Recovering,Hispanic
+3392,Recovered,Caucasian
+3393,Recovering,Black
+3394,Not recovered,Asian
+3395,Unknown,Caucasian
+3396,Recovering,Black
+3397,Recovered,Asian
+3398,Not recovered,Hispanic
+3399,Recovering,Asian
+3400,Recovering,Caucasian
+3401,Unknown,Black
+3402,Not recovered,Asian
+3403,Not recovered,Caucasian
+3404,Not recovered,Black
+3405,Recovering,Asian
+3406,Not recovered,Hispanic
+3407,Recovered,Asian
+3408,Recovered,Asian
+3409,Not recovered,Latino
+3410,Recovering,Caucasian
+3411,Recovered,Asian
+3412,Recovering,Caucasian
+3413,Not recovered,Hispanic
+3414,Not recovered,Hispanic
+3415,Recovered,Caucasian
+3416,Recovered,Asian
+3417,Not recovered,Caucasian
+3418,Recovering,Hispanic
+3419,Recovered,Hispanic
+3420,Recovering,Hispanic
+3421,Not recovered,Caucasian
+3422,Unknown,Black
+3423,Recovering,Asian
+3424,Recovered,Caucasian
+3425,Not recovered,Black
+3426,Recovering,Asian
+3427,Recovering,Hispanic
+3428,Unknown,Asian
+3429,Not recovered,Caucasian
+3430,Not recovered,Hispanic
+3431,Not recovered,Asian
+3432,Recovering,Asian
+3433,Not recovered,Latino
+3434,Recovered,Caucasian
+3435,Recovered,Asian
+3436,Not recovered,Caucasian
+3437,Recovering,Hispanic
+3438,Recovered,Hispanic
+3439,Recovering,Caucasian
+3440,Not recovered,Asian
+3441,Unknown,Caucasian
+3442,Recovering,Hispanic
+3443,Recovered,Hispanic
+3444,Not recovered,Hispanic
+3445,Recovering,Caucasian
+3446,Recovering,Black
+3447,Unknown,Asian
+3448,Not recovered,Caucasian
+3449,Not recovered,Black
+3450,Not recovered,Asian
+3451,Recovering,Hispanic
+3452,Not recovered,Asian
+3453,Recovered,Caucasian
+3454,Recovered,Black
+3455,Not recovered,Asian
+3456,Recovering,Caucasian
+3457,Recovered,Black
+3458,Recovering,Asian
+3459,Not recovered,Hispanic
+3460,Not recovered,Asian
+3461,Recovered,Asian
+3462,Recovered,Latino
+3463,Not recovered,Caucasian
+3464,Recovering,Asian
+3465,Recovered,Caucasian
+3466,Recovering,Hispanic
+3467,Not recovered,Hispanic
+3468,Unknown,Caucasian
+3469,Recovering,Asian
+3470,Recovered,Caucasian
+3471,Not recovered,Hispanic
+3472,Recovering,Hispanic
+3473,Recovering,Hispanic
+3474,Unknown,Caucasian
+3475,Not recovered,Black
+3476,Not recovered,Asian
+3477,Not recovered,Caucasian
+3478,Recovering,Black
+3479,Not recovered,Asian
+3480,Recovered,Hispanic
+3481,Recovered,Asian
+3482,Not recovered,Caucasian
+3483,Recovering,Hispanic
+3484,Recovered,Asian
+3485,Recovering,Asian
+3486,Not recovered,Latino
+3487,Unknown,Caucasian
+3488,Recovering,Asian
+3489,Recovered,Caucasian
+3490,Not recovered,Hispanic
+3491,Recovering,Hispanic
+3492,Recovering,Caucasian
+3493,Unknown,Asian
+3494,Not recovered,Caucasian
+3495,Not recovered,Hispanic
+3496,Not recovered,Hispanic
+3497,Recovering,Hispanic
+3498,Not recovered,Caucasian
+3499,Recovered,Black
+3500,Recovered,Asian
+3501,Not recovered,Caucasian
+3502,Recovering,Black
+3503,Recovered,Asian
+3504,Recovering,Hispanic
+3505,Not recovered,Asian
+3506,Not recovered,Caucasian
+3507,Recovered,Black
+3508,Recovered,Asian
+3509,Not recovered,Caucasian
+3510,Recovering,Black
+3511,Recovered,Asian
+3512,Recovering,Hispanic
+3513,Not recovered,Asian
+3514,Unknown,Asian
+3515,Recovering,Latino
+3516,Recovered,Caucasian
+3517,Not recovered,Asian
+3518,Recovering,Caucasian
+3519,Recovering,Hispanic
+3520,Unknown,Hispanic
+3521,Not recovered,Caucasian
+3522,Not recovered,Asian
+3523,Not recovered,Caucasian
+3524,Recovering,Hispanic
+3525,Not recovered,Hispanic
+3526,Recovered,Hispanic
+3527,Recovered,Caucasian
+3528,Not recovered,Black
+3529,Recovering,Asian
+3530,Recovered,Caucasian
+3531,Recovering,Black
+3532,Not recovered,Asian
+3533,Unknown,Hispanic
+3534,Recovering,Asian
+3535,Recovered,Caucasian
+3536,Not recovered,Hispanic
+3537,Recovering,Asian
+3538,Recovering,Asian
+3539,Unknown,Latino
+3540,Not recovered,Caucasian
+3541,Not recovered,Asian
+3542,Not recovered,Caucasian
+3543,Recovering,Hispanic
+3544,Not recovered,Hispanic
+3545,Recovered,Caucasian
+3546,Recovered,Asian
+3547,Not recovered,Caucasian
+3548,Recovering,Hispanic
+3549,Recovered,Hispanic
+3550,Recovering,Hispanic
+3551,Not recovered,Caucasian
+3552,Not recovered,Black
+3553,Recovered,Asian
+3554,Recovered,Caucasian
+3555,Not recovered,Black
+3556,Recovering,Asian
+3557,Recovered,Hispanic
+3558,Recovering,Asian
+3559,Not recovered,Caucasian
+3560,Unknown,Black
+3561,Recovering,Asian
+3562,Recovered,Caucasian
+3563,Not recovered,Black
+3564,Recovering,Asian
+3565,Recovering,Hispanic
+3566,Unknown,Asian
+3567,Not recovered,Asian
+3568,Not recovered,Latino
+3569,Not recovered,Caucasian
+3570,Recovering,Asian
+3571,Not recovered,Caucasian
+3572,Recovered,Hispanic
+3573,Recovered,Hispanic
+3574,Not recovered,Caucasian
+3575,Recovering,Asian
+3576,Recovered,Caucasian
+3577,Recovering,Hispanic
+3578,Not recovered,Hispanic
+3579,Unknown,Hispanic
+3580,Recovering,Caucasian
+3581,Recovered,Black
+3582,Not recovered,Asian
+3583,Recovering,Caucasian
+3584,Recovering,Black
+3585,Unknown,Asian
+3586,Not recovered,Hispanic
+3587,Not recovered,Asian
+3588,Not recovered,Caucasian
+3589,Recovering,Hispanic
+3590,Not recovered,Asian
+3591,Recovered,Asian
+3592,Recovered,Latino
+3593,Not recovered,Caucasian
+3594,Recovering,Asian
+3595,Recovered,Caucasian
+3596,Recovering,Hispanic
+3597,Not recovered,Hispanic
+3598,Not recovered,Caucasian
+3599,Recovered,Asian
+3600,Recovered,Caucasian
+3601,Not recovered,Hispanic
+3602,Recovering,Hispanic
+3603,Recovered,Hispanic
+3604,Recovering,Caucasian
+3605,Not recovered,Black
+3606,Unknown,Asian
+3607,Recovering,Caucasian
+3608,Recovered,Black
+3609,Not recovered,Asian
+3610,Recovering,Hispanic
+3611,Recovering,Asian
+3612,Unknown,Caucasian
+3613,Not recovered,Black
+3614,Not recovered,Asian
+3615,Not recovered,Caucasian
+3616,Recovering,Black
+3617,Not recovered,Asian
+3618,Recovered,Hispanic
+3619,Recovered,Asian
+3620,Not recovered,Asian
+3621,Recovering,Latino
+3622,Recovered,Caucasian
+3623,Recovering,Asian
+3624,Not recovered,Caucasian
+3625,Unknown,Hispanic
+3626,Recovering,Hispanic
+3627,Recovered,Caucasian
+3628,Not recovered,Asian
+3629,Recovering,Caucasian
+3630,Recovering,Hispanic
+3631,Unknown,Hispanic
+3632,Not recovered,Hispanic
+3633,Not recovered,Caucasian
+3634,Not recovered,Black
+3635,Recovering,Asian
+3636,Not recovered,Caucasian
+3637,Recovered,Black
+3638,Recovered,Asian
+3639,Not recovered,Hispanic
+3640,Recovering,Asian
+3641,Recovered,Caucasian
+3642,Recovering,Hispanic
+3643,Not recovered,Asian
+3644,Not recovered,Asian
+3645,Recovered,Latino
+3646,Recovered,Caucasian
+3647,Not recovered,Asian
+3648,Recovering,Caucasian
+3649,Recovered,Hispanic
+3650,Recovering,Hispanic
+3651,Not recovered,Caucasian
+3652,Unknown,Asian
+3653,Recovering,Caucasian
+3654,Recovered,Hispanic
+3655,Not recovered,Hispanic
+3656,Recovering,Hispanic
+3657,Recovering,Caucasian
+3658,Unknown,Black
+3659,Not recovered,Asian
+3660,Not recovered,Caucasian
+3661,Not recovered,Black
+3662,Recovering,Asian
+3663,Not recovered,Hispanic
+3664,Recovered,Asian
+3665,Recovered,Caucasian
+3666,Not recovered,Black
+3667,Recovering,Asian
+3668,Recovered,Caucasian
+3669,Recovering,Black
+3670,Not recovered,Asian
+3671,Unknown,Hispanic
+3672,Recovering,Asian
+3673,Recovered,Asian
+3674,Not recovered,Latino
+3675,Recovering,Caucasian
+3676,Recovering,Asian
+3677,Unknown,Caucasian
+3678,Not recovered,Hispanic
+3679,Not recovered,Hispanic
+3680,Not recovered,Caucasian
+3681,Recovering,Asian
+3682,Not recovered,Caucasian
+3683,Recovered,Hispanic
+3684,Recovered,Hispanic
+3685,Not recovered,Hispanic
+3686,Recovering,Caucasian
+3687,Recovered,Black
+3688,Recovering,Asian
+3689,Not recovered,Caucasian
+3690,Not recovered,Black
+3691,Recovered,Asian
+3692,Recovered,Hispanic
+3693,Not recovered,Asian
+3694,Recovering,Caucasian
+3695,Recovered,Hispanic
+3696,Recovering,Asian
+3697,Not recovered,Asian
+3698,Unknown,Latino
+3699,Recovering,Caucasian
+3700,Recovered,Asian
+3701,Not recovered,Caucasian
+3702,Recovering,Hispanic
+3703,Recovering,Hispanic
+3704,Unknown,Caucasian
+3705,Not recovered,Asian
+3706,Not recovered,Caucasian
+3707,Not recovered,Hispanic
+3708,Recovering,Hispanic
+3709,Not recovered,Hispanic
+3710,Recovered,Caucasian
+3711,Recovered,Black
+3712,Not recovered,Asian
+3713,Recovering,Caucasian
+3714,Recovered,Black
+3715,Recovering,Asian
+3716,Not recovered,Hispanic
+3717,Unknown,Asian
+3718,Recovering,Caucasian
+3719,Recovered,Black
+3720,Not recovered,Asian
+3721,Recovering,Caucasian
+3722,Recovering,Black
+3723,Unknown,Asian
+3724,Not recovered,Hispanic
+3725,Not recovered,Asian
+3726,Not recovered,Asian
+3727,Recovering,Latino
+3728,Not recovered,Caucasian
+3729,Recovered,Asian
+3730,Recovered,Caucasian
+3731,Not recovered,Hispanic
+3732,Recovering,Hispanic
+3733,Recovered,Caucasian
+3734,Recovering,Asian
+3735,Not recovered,Caucasian
+3736,Not recovered,Hispanic
+3737,Recovered,Hispanic
+3738,Recovered,Hispanic
+3739,Not recovered,Caucasian
+3740,Recovering,Black
+3741,Recovered,Asian
+3742,Recovering,Caucasian
+3743,Not recovered,Black
+3744,Unknown,Asian
+3745,Recovering,Hispanic
+3746,Recovered,Asian
+3747,Not recovered,Caucasian
+3748,Recovering,Hispanic
+3749,Recovering,Asian
+3750,Unknown,Asian
+3751,Not recovered,Latino
+3752,Not recovered,Caucasian
+3753,Not recovered,Asian
+3754,Recovering,Caucasian
+3755,Not recovered,Hispanic
+3756,Recovered,Hispanic
+3757,Recovered,Caucasian
+3758,Not recovered,Asian
+3759,Recovering,Caucasian
+3760,Recovered,Hispanic
+3761,Recovering,Hispanic
+3762,Not recovered,Hispanic
+3763,Unknown,Caucasian
+3764,Recovering,Black
+3765,Recovered,Asian
+3766,Not recovered,Caucasian
+3767,Recovering,Black
+3768,Recovering,Asian
+3769,Unknown,Hispanic
+3770,Not recovered,Asian
+3771,Not recovered,Caucasian
+3772,Not recovered,Black
+3773,Recovering,Asian
+3774,Not recovered,Caucasian
+3775,Recovered,Black
+3776,Recovered,Asian
+3777,Not recovered,Hispanic
+3778,Recovering,Asian
+3779,Recovered,Asian
+3780,Recovering,Latino
+3781,Not recovered,Caucasian
+3782,Not recovered,Asian
+3783,Recovered,Caucasian
+3784,Recovered,Hispanic
+3785,Not recovered,Hispanic
+3786,Recovering,Caucasian
+3787,Recovered,Asian
+3788,Recovering,Caucasian
+3789,Not recovered,Hispanic
+3790,Unknown,Hispanic
+3791,Recovering,Hispanic
+3792,Recovered,Caucasian
+3793,Not recovered,Black
+3794,Recovering,Asian
+3795,Recovering,Caucasian
+3796,Unknown,Black
+3797,Not recovered,Asian
+3798,Not recovered,Hispanic
+3799,Not recovered,Asian
+3800,Recovering,Caucasian
+3801,Not recovered,Hispanic
+3802,Recovered,Asian
+3803,Recovered,Asian
+3804,Not recovered,Latino
+3805,Recovering,Caucasian
+3806,Recovered,Asian
+3807,Recovering,Caucasian
+3808,Not recovered,Hispanic
+3809,Unknown,Hispanic
+3810,Recovering,Caucasian
+3811,Recovered,Asian
+3812,Not recovered,Caucasian
+3813,Recovering,Hispanic
+3814,Recovering,Hispanic
+3815,Unknown,Hispanic
+3816,Not recovered,Caucasian
+3817,Not recovered,Black
+3818,Not recovered,Asian
+3819,Recovering,Caucasian
+3820,Not recovered,Black
+3821,Recovered,Asian
+3822,Recovered,Hispanic
+3823,Not recovered,Asian
+3824,Recovering,Caucasian
+3825,Recovered,Black
+3826,Recovering,Asian
+3827,Not recovered,Caucasian
+3828,Not recovered,Black
+3829,Recovered,Asian
+3830,Recovered,Hispanic
+3831,Not recovered,Asian
+3832,Recovering,Asian
+3833,Recovered,Latino
+3834,Recovering,Caucasian
+3835,Not recovered,Asian
+3836,Unknown,Caucasian
+3837,Recovering,Hispanic
+3838,Recovered,Hispanic
+3839,Not recovered,Caucasian
+3840,Recovering,Asian
+3841,Recovering,Caucasian
+3842,Unknown,Hispanic
+3843,Not recovered,Hispanic
+3844,Not recovered,Hispanic
+3845,Not recovered,Caucasian
+3846,Recovering,Black
+3847,Not recovered,Asian
+3848,Recovered,Caucasian
+3849,Recovered,Black
+3850,Not recovered,Asian
+3851,Recovering,Hispanic
+3852,Recovered,Asian
+3853,Recovering,Caucasian
+3854,Not recovered,Hispanic
+3855,Unknown,Asian
+3856,Recovering,Asian
+3857,Recovered,Latino
+3858,Not recovered,Caucasian
+3859,Recovering,Asian
+3860,Recovering,Caucasian
+3861,Unknown,Hispanic
+3862,Not recovered,Hispanic
+3863,Not recovered,Caucasian
+3864,Not recovered,Asian
+3865,Recovering,Caucasian
+3866,Not recovered,Hispanic
+3867,Recovered,Hispanic
+3868,Recovered,Hispanic
+3869,Not recovered,Caucasian
+3870,Recovering,Black
+3871,Recovered,Asian
+3872,Recovering,Caucasian
+3873,Not recovered,Black
+3874,Not recovered,Asian
+3875,Recovered,Hispanic
+3876,Recovered,Asian
+3877,Not recovered,Caucasian
+3878,Recovering,Black
+3879,Recovered,Asian
+3880,Recovering,Caucasian
+3881,Not recovered,Black
+3882,Unknown,Asian
+3883,Recovering,Hispanic
+3884,Recovered,Asian
+3885,Not recovered,Asian
+3886,Recovering,Latino
+3887,Recovering,Caucasian
+3888,Unknown,Asian
+3889,Not recovered,Caucasian
+3890,Not recovered,Hispanic
+3891,Not recovered,Hispanic
+3892,Recovering,Caucasian
+3893,Not recovered,Asian
+3894,Recovered,Caucasian
+3895,Recovered,Hispanic
+3896,Not recovered,Hispanic
+3897,Recovering,Hispanic
+3898,Recovered,Caucasian
+3899,Recovering,Black
+3900,Not recovered,Asian
+3901,Unknown,Caucasian
+3902,Recovering,Black
+3903,Recovered,Asian
+3904,Not recovered,Hispanic
+3905,Recovering,Asian
+3906,Recovering,Caucasian
+3907,Unknown,Hispanic
+3908,Not recovered,Asian
+3909,Not recovered,Asian
+3910,Not recovered,Latino
+3911,Recovering,Caucasian
+3912,Not recovered,Asian
+3913,Recovered,Caucasian
+3914,Recovered,Hispanic
+3915,Not recovered,Hispanic
+3916,Recovering,Caucasian
+3917,Recovered,Asian
+3918,Recovering,Caucasian
+3919,Not recovered,Hispanic
+3920,Not recovered,Hispanic
+3921,Recovered,Hispanic
+3922,Recovered,Caucasian
+3923,Not recovered,Black
+3924,Recovering,Asian
+3925,Recovered,Caucasian
+3926,Recovering,Black
+3927,Not recovered,Asian
+3928,Unknown,Hispanic
+3929,Recovering,Asian
+3930,Recovered,Caucasian
+3931,Not recovered,Black
+3932,Recovering,Asian
+3933,Recovering,Caucasian
+3934,Unknown,Black
+3935,Not recovered,Asian
+3936,Not recovered,Hispanic
+3937,Not recovered,Asian
+3938,Recovering,Asian
+3939,Not recovered,Latino
+3940,Recovered,Caucasian
+3941,Recovered,Asian
+3942,Not recovered,Caucasian
+3943,Recovering,Hispanic
+3944,Recovered,Hispanic
+3945,Recovering,Caucasian
+3946,Not recovered,Asian
+3947,Unknown,Caucasian
+3948,Recovering,Hispanic
+3949,Recovered,Hispanic
+3950,Not recovered,Hispanic
+3951,Recovering,Caucasian
+3952,Recovering,Black
+3953,Unknown,Asian
+3954,Not recovered,Caucasian
+3955,Not recovered,Black
+3956,Not recovered,Asian
+3957,Recovering,Hispanic
+3958,Not recovered,Asian
+3959,Recovered,Caucasian
+3960,Recovered,Hispanic
+3961,Not recovered,Asian
+3962,Recovering,Asian
+3963,Recovered,Latino
+3964,Recovering,Caucasian
+3965,Not recovered,Asian
+3966,Not recovered,Caucasian
+3967,Recovered,Hispanic
+3968,Recovered,Hispanic
+3969,Not recovered,Caucasian
+3970,Recovering,Asian
+3971,Recovered,Caucasian
+3972,Recovering,Hispanic
+3973,Not recovered,Hispanic
+3974,Unknown,Hispanic
+3975,Recovering,Caucasian
+3976,Recovered,Black
+3977,Not recovered,Asian
+3978,Recovering,Caucasian
+3979,Recovering,Black
+3980,Unknown,Asian
+3981,Not recovered,Hispanic
+3982,Not recovered,Asian
+3983,Not recovered,Caucasian
+3984,Recovering,Black
+3985,Not recovered,Asian
+3986,Recovered,Caucasian
+3987,Recovered,Black
+3988,Not recovered,Asian
+3989,Recovering,Hispanic
+3990,Recovered,Asian
+3991,Recovering,Asian
+3992,Not recovered,Latino
+3993,Unknown,Caucasian
+3994,Recovering,Asian
+3995,Recovered,Caucasian
+3996,Not recovered,Hispanic
+3997,Recovering,Hispanic
+3998,Recovering,Caucasian
+3999,Unknown,Asian
+4000,Not recovered,Caucasian
+4001,Not recovered,Hispanic
+4002,Not recovered,Hispanic
+4003,Recovering,Hispanic
+4004,Not recovered,Caucasian
+4005,Recovered,Black
+4006,Recovered,Asian
+4007,Not recovered,Caucasian
+4008,Recovering,Black
+4009,Recovered,Asian
+4010,Recovering,Hispanic
+4011,Not recovered,Asian
+4012,Not recovered,Caucasian
+4013,Recovered,Hispanic
+4014,Recovered,Asian
+4015,Not recovered,Asian
+4016,Recovering,Latino
+4017,Recovered,Caucasian
+4018,Recovering,Asian
+4019,Not recovered,Caucasian
+4020,Unknown,Hispanic
+4021,Recovering,Hispanic
+4022,Recovered,Caucasian
+4023,Not recovered,Asian
+4024,Recovering,Caucasian
+4025,Recovering,Hispanic
+4026,Unknown,Hispanic
+4027,Not recovered,Hispanic
+4028,Not recovered,Caucasian
+4029,Not recovered,Black
+4030,Recovering,Asian
+4031,Not recovered,Caucasian
+4032,Recovered,Black
+4033,Recovered,Asian
+4034,Not recovered,Hispanic
+4035,Recovering,Asian
+4036,Recovered,Caucasian
+4037,Recovering,Black
+4038,Not recovered,Asian
+4039,Unknown,Caucasian
+4040,Recovering,Black
+4041,Recovered,Asian
+4042,Not recovered,Hispanic
+4043,Recovering,Asian
+4044,Recovering,Asian
+4045,Unknown,Latino
+4046,Not recovered,Caucasian
+4047,Not recovered,Asian
+4048,Not recovered,Caucasian
+4049,Recovering,Hispanic
+4050,Not recovered,Hispanic
+4051,Recovered,Caucasian
+4052,Recovered,Asian
+4053,Not recovered,Caucasian
+4054,Recovering,Hispanic
+4055,Recovered,Hispanic
+4056,Recovering,Hispanic
+4057,Not recovered,Caucasian
+4058,Not recovered,Black
+4059,Recovered,Asian
+4060,Recovered,Caucasian
+4061,Not recovered,Black
+4062,Recovering,Asian
+4063,Recovered,Hispanic
+4064,Recovering,Asian
+4065,Not recovered,Caucasian
+4066,Unknown,Hispanic
+4067,Recovering,Asian
+4068,Recovered,Asian
+4069,Not recovered,Latino
+4070,Recovering,Caucasian
+4071,Recovering,Asian
+4072,Unknown,Caucasian
+4073,Not recovered,Hispanic
+4074,Not recovered,Hispanic
+4075,Not recovered,Caucasian
+4076,Recovering,Asian
+4077,Not recovered,Caucasian
+4078,Recovered,Hispanic
+4079,Recovered,Hispanic
+4080,Not recovered,Hispanic
+4081,Recovering,Caucasian
+4082,Recovered,Black
+4083,Recovering,Asian
+4084,Not recovered,Caucasian
+4085,Unknown,Black
+4086,Recovering,Asian
+4087,Recovered,Hispanic
+4088,Not recovered,Asian
+4089,Recovering,Caucasian
+4090,Recovering,Black
+4091,Unknown,Asian
+4092,Not recovered,Caucasian
+4093,Not recovered,Black
+4094,Not recovered,Asian
+4095,Recovering,Hispanic
+4096,Not recovered,Asian
+4097,Recovered,Asian
+4098,Recovered,Latino
+4099,Not recovered,Caucasian
+4100,Recovering,Asian
+4101,Recovered,Caucasian
+4102,Recovering,Hispanic
+4103,Not recovered,Hispanic
+4104,Not recovered,Caucasian
+4105,Recovered,Asian
+4106,Recovered,Caucasian
+4107,Not recovered,Hispanic
+4108,Recovering,Hispanic
+4109,Recovered,Hispanic
+4110,Recovering,Caucasian
+4111,Not recovered,Black
+4112,Unknown,Asian
+4113,Recovering,Caucasian
+4114,Recovered,Black
+4115,Not recovered,Asian
+4116,Recovering,Hispanic
+4117,Recovering,Asian
+4118,Unknown,Caucasian
+4119,Not recovered,Hispanic
+4120,Not recovered,Asian
+4121,Not recovered,Asian
+4122,Recovering,Latino
+4123,Not recovered,Caucasian
+4124,Recovered,Asian
+4125,Recovered,Caucasian
+4126,Not recovered,Hispanic
+4127,Recovering,Hispanic
+4128,Recovered,Caucasian
+4129,Recovering,Asian
+4130,Not recovered,Caucasian
+4131,Unknown,Hispanic
+4132,Recovering,Hispanic
+4133,Recovered,Hispanic
+4134,Not recovered,Caucasian
+4135,Recovering,Black
+4136,Recovering,Asian
+4137,Unknown,Caucasian
+4138,Not recovered,Black
+4139,Not recovered,Asian
+4140,Not recovered,Hispanic
+4141,Recovering,Asian
+4142,Not recovered,Caucasian
+4143,Recovered,Black
+4144,Recovered,Asian
+4145,Not recovered,Caucasian
+4146,Recovering,Black
+4147,Recovered,Asian
+4148,Recovering,Hispanic
+4149,Not recovered,Asian
+4150,Not recovered,Asian
+4151,Recovered,Latino
+4152,Recovered,Caucasian
+4153,Not recovered,Asian
+4154,Recovering,Caucasian
+4155,Recovered,Hispanic
+4156,Recovering,Hispanic
+4157,Not recovered,Caucasian
+4158,Unknown,Asian
+4159,Recovering,Caucasian
+4160,Recovered,Hispanic
+4161,Not recovered,Hispanic
+4162,Recovering,Hispanic
+4163,Recovering,Caucasian
+4164,Unknown,Black
+4165,Not recovered,Asian
+4166,Not recovered,Caucasian
+4167,Not recovered,Black
+4168,Recovering,Asian
+4169,Not recovered,Hispanic
+4170,Recovered,Asian
+4171,Recovered,Caucasian
+4172,Not recovered,Hispanic
+4173,Recovering,Asian
+4174,Recovered,Asian
+4175,Recovering,Latino
+4176,Not recovered,Caucasian
+4177,Unknown,Asian
+4178,Recovering,Caucasian
+4179,Recovered,Hispanic
+4180,Not recovered,Hispanic
+4181,Recovering,Caucasian
+4182,Recovering,Asian
+4183,Unknown,Caucasian
+4184,Not recovered,Hispanic
+4185,Not recovered,Hispanic
+4186,Not recovered,Hispanic
+4187,Recovering,Caucasian
+4188,Not recovered,Black
+4189,Recovered,Asian
+4190,Recovered,Caucasian
+4191,Not recovered,Black
+4192,Recovering,Asian
+4193,Recovered,Hispanic
+4194,Recovering,Asian
+4195,Not recovered,Caucasian
+4196,Not recovered,Black
+4197,Recovered,Asian
+4198,Recovered,Caucasian
+4199,Not recovered,Black
+4200,Recovering,Asian
+4201,Recovered,Hispanic
+4202,Recovering,Asian
+4203,Not recovered,Asian
+4204,Unknown,Latino
+4205,Recovering,Caucasian
+4206,Recovered,Asian
+4207,Not recovered,Caucasian
+4208,Recovering,Hispanic
+4209,Recovering,Hispanic
+4210,Unknown,Caucasian
+4211,Not recovered,Asian
+4212,Not recovered,Caucasian
+4213,Not recovered,Hispanic
+4214,Recovering,Hispanic
+4215,Not recovered,Hispanic
+4216,Recovered,Caucasian
+4217,Recovered,Black
+4218,Not recovered,Asian
+4219,Recovering,Caucasian
+4220,Recovered,Black
+4221,Recovering,Asian
+4222,Not recovered,Hispanic
+4223,Unknown,Asian
+4224,Recovering,Caucasian
+4225,Recovered,Hispanic
+4226,Not recovered,Asian
+4227,Recovering,Asian
+4228,Recovering,Latino
+4229,Unknown,Caucasian
+4230,Not recovered,Asian
+4231,Not recovered,Caucasian
+4232,Not recovered,Hispanic
+4233,Recovering,Hispanic
+4234,Not recovered,Caucasian
+4235,Recovered,Asian
+4236,Recovered,Caucasian
+4237,Not recovered,Hispanic
+4238,Recovering,Hispanic
+4239,Recovered,Hispanic
+4240,Recovering,Caucasian
+4241,Not recovered,Black
+4242,Not recovered,Asian
+4243,Recovered,Caucasian
+4244,Recovered,Black
+4245,Not recovered,Asian
+4246,Recovering,Hispanic
+4247,Recovered,Asian
+4248,Recovering,Caucasian
+4249,Not recovered,Black
+4250,Unknown,Asian
+4251,Recovering,Caucasian
+4252,Recovered,Black
+4253,Not recovered,Asian
+4254,Recovering,Hispanic
+4255,Recovering,Asian
+4256,Unknown,Asian
+4257,Not recovered,Latino
+4258,Not recovered,Caucasian
+4259,Not recovered,Asian
+4260,Recovering,Caucasian
+4261,Not recovered,Hispanic
+4262,Recovered,Hispanic
+4263,Recovered,Caucasian
+4264,Not recovered,Asian
+4265,Recovering,Caucasian
+4266,Recovered,Hispanic
+4267,Recovering,Hispanic
+4268,Not recovered,Hispanic
+4269,Unknown,Caucasian
+4270,Recovering,Black
+4271,Recovered,Asian
+4272,Not recovered,Caucasian
+4273,Recovering,Black
+4274,Recovering,Asian
+4275,Unknown,Hispanic
+4276,Not recovered,Asian
+4277,Not recovered,Caucasian
+4278,Not recovered,Hispanic
+4279,Recovering,Asian
+4280,Not recovered,Asian
+4281,Recovered,Latino
+4282,Recovered,Caucasian
+4283,Not recovered,Asian
+4284,Recovering,Caucasian
+4285,Recovered,Hispanic
+4286,Recovering,Hispanic
+4287,Not recovered,Caucasian
+4288,Not recovered,Asian
+4289,Recovered,Caucasian
+4290,Recovered,Hispanic
+4291,Not recovered,Hispanic
+4292,Recovering,Hispanic
+4293,Recovered,Caucasian
+4294,Recovering,Black
+4295,Not recovered,Asian
+4296,Unknown,Caucasian
+4297,Recovering,Black
+4298,Recovered,Asian
+4299,Not recovered,Hispanic
+4300,Recovering,Asian
+4301,Recovering,Caucasian
+4302,Unknown,Black
+4303,Not recovered,Asian
+4304,Not recovered,Caucasian
+4305,Not recovered,Black
+4306,Recovering,Asian
+4307,Not recovered,Hispanic
+4308,Recovered,Asian
+4309,Recovered,Asian
+4310,Not recovered,Latino
+4311,Recovering,Caucasian
+4312,Recovered,Asian
+4313,Recovering,Caucasian
+4314,Not recovered,Hispanic
+4315,Unknown,Hispanic
+4316,Recovering,Caucasian
+4317,Recovered,Asian
+4318,Not recovered,Caucasian
+4319,Recovering,Hispanic
+4320,Recovering,Hispanic
+4321,Unknown,Hispanic
+4322,Not recovered,Caucasian
+4323,Not recovered,Black
+4324,Not recovered,Asian
+4325,Recovering,Caucasian
+4326,Not recovered,Black
+4327,Recovered,Asian
+4328,Recovered,Hispanic
+4329,Not recovered,Asian
+4330,Recovering,Caucasian
+4331,Recovered,Hispanic
+4332,Recovering,Asian
+4333,Not recovered,Asian
+4334,Not recovered,Latino
+4335,Recovered,Caucasian
+4336,Recovered,Asian
+4337,Not recovered,Caucasian
+4338,Recovering,Hispanic
+4339,Recovered,Hispanic
+4340,Recovering,Caucasian
+4341,Not recovered,Asian
+4342,Unknown,Caucasian
+4343,Recovering,Hispanic
+4344,Recovered,Hispanic
+4345,Not recovered,Hispanic
+4346,Recovering,Caucasian
+4347,Recovering,Black
+4348,Unknown,Asian
+4349,Not recovered,Caucasian
+4350,Not recovered,Black
+4351,Not recovered,Asian
+4352,Recovering,Hispanic
+4353,Not recovered,Asian
+4354,Recovered,Caucasian
+4355,Recovered,Black
+4356,Not recovered,Asian
+4357,Recovering,Caucasian
+4358,Recovered,Black
+4359,Recovering,Asian
+4360,Not recovered,Hispanic
+4361,Unknown,Asian
+4362,Recovering,Asian
+4363,Recovered,Latino
+4364,Not recovered,Caucasian
+4365,Recovering,Asian
+4366,Recovering,Caucasian
+4367,Unknown,Hispanic
+4368,Not recovered,Hispanic
+4369,Not recovered,Caucasian
+4370,Not recovered,Asian
+4371,Recovering,Caucasian
+4372,Not recovered,Hispanic
+4373,Recovered,Hispanic
+4374,Recovered,Hispanic
+4375,Not recovered,Caucasian
+4376,Recovering,Black
+4377,Recovered,Asian
+4378,Recovering,Caucasian
+4379,Not recovered,Black
+4380,Not recovered,Asian
+4381,Recovered,Hispanic
+4382,Recovered,Asian
+4383,Not recovered,Caucasian
+4384,Recovering,Hispanic
+4385,Recovered,Asian
+4386,Recovering,Asian
+4387,Not recovered,Latino
+4388,Unknown,Caucasian
+4389,Recovering,Asian
+4390,Recovered,Caucasian
+4391,Not recovered,Hispanic
+4392,Recovering,Hispanic
+4393,Recovering,Caucasian
+4394,Unknown,Asian
+4395,Not recovered,Caucasian
+4396,Not recovered,Hispanic
+4397,Not recovered,Hispanic
+4398,Recovering,Hispanic
+4399,Not recovered,Caucasian
+4400,Recovered,Black
+4401,Recovered,Asian
+4402,Not recovered,Caucasian
+4403,Recovering,Black
+4404,Recovered,Asian
+4405,Recovering,Hispanic
+4406,Not recovered,Asian
+4407,Unknown,Caucasian
+4408,Recovering,Black
+4409,Recovered,Asian
+4410,Not recovered,Caucasian
+4411,Recovering,Black
+4412,Recovering,Asian
+4413,Unknown,Hispanic
+4414,Not recovered,Asian
+4415,Not recovered,Asian
+4416,Not recovered,Latino
+4417,Recovering,Caucasian
+4418,Not recovered,Asian
+4419,Recovered,Caucasian
+4420,Recovered,Hispanic
+4421,Not recovered,Hispanic
+4422,Recovering,Caucasian
+4423,Recovered,Asian
+4424,Recovering,Caucasian
+4425,Not recovered,Hispanic
+4426,Not recovered,Hispanic
+4427,Recovered,Hispanic
+4428,Recovered,Caucasian
+4429,Not recovered,Black
+4430,Recovering,Asian
+4431,Recovered,Caucasian
+4432,Recovering,Black
+4433,Not recovered,Asian
+4434,Unknown,Hispanic
+4435,Recovering,Asian
+4436,Recovered,Caucasian
+4437,Not recovered,Hispanic
+4438,Recovering,Asian
+4439,Recovering,Asian
+4440,Unknown,Latino
+4441,Not recovered,Caucasian
+4442,Not recovered,Asian
+4443,Not recovered,Caucasian
+4444,Recovering,Hispanic
+4445,Not recovered,Hispanic
+4446,Recovered,Caucasian
+4447,Recovered,Asian
+4448,Not recovered,Caucasian
+4449,Recovering,Hispanic
+4450,Recovered,Hispanic
+4451,Recovering,Hispanic
+4452,Not recovered,Caucasian
+4453,Unknown,Black
+4454,Recovering,Asian
+4455,Recovered,Caucasian
+4456,Not recovered,Black
+4457,Recovering,Asian
+4458,Recovering,Hispanic
+4459,Unknown,Asian
+4460,Not recovered,Caucasian
+4461,Not recovered,Black
+4462,Not recovered,Asian
+4463,Recovering,Caucasian
+4464,Not recovered,Black
+4465,Recovered,Asian
+4466,Recovered,Hispanic
+4467,Not recovered,Asian
+4468,Recovering,Asian
+4469,Recovered,Latino
+4470,Recovering,Caucasian
+4471,Not recovered,Asian
+4472,Not recovered,Caucasian
+4473,Recovered,Hispanic
+4474,Recovered,Hispanic
+4475,Not recovered,Caucasian
+4476,Recovering,Asian
+4477,Recovered,Caucasian
+4478,Recovering,Hispanic
+4479,Not recovered,Hispanic
+4480,Unknown,Hispanic
+4481,Recovering,Caucasian
+4482,Recovered,Black
+4483,Not recovered,Asian
+4484,Recovering,Caucasian
+4485,Recovering,Black
+4486,Unknown,Asian
+4487,Not recovered,Hispanic
+4488,Not recovered,Asian
+4489,Not recovered,Caucasian
+4490,Recovering,Hispanic
+4491,Not recovered,Asian
+4492,Recovered,Asian
+4493,Recovered,Latino
+4494,Not recovered,Caucasian
+4495,Recovering,Asian
+4496,Recovered,Caucasian
+4497,Recovering,Hispanic
+4498,Not recovered,Hispanic
+4499,Unknown,Caucasian
+4500,Recovering,Asian
+4501,Recovered,Caucasian
+4502,Not recovered,Hispanic
+4503,Recovering,Hispanic
+4504,Recovering,Hispanic
+4505,Unknown,Caucasian
+4506,Not recovered,Black
+4507,Not recovered,Asian
+4508,Not recovered,Caucasian
+4509,Recovering,Black
+4510,Not recovered,Asian
+4511,Recovered,Hispanic
+4512,Recovered,Asian
+4513,Not recovered,Caucasian
+4514,Recovering,Black
+4515,Recovered,Asian
+4516,Recovering,Caucasian
+4517,Not recovered,Black
+4518,Not recovered,Asian
+4519,Recovered,Hispanic
+4520,Recovered,Asian
+4521,Not recovered,Asian
+4522,Recovering,Latino
+4523,Recovered,Caucasian
+4524,Recovering,Asian
+4525,Not recovered,Caucasian
+4526,Unknown,Hispanic
+4527,Recovering,Hispanic
+4528,Recovered,Caucasian
+4529,Not recovered,Asian
+4530,Recovering,Caucasian
+4531,Recovering,Hispanic
+4532,Unknown,Hispanic
+4533,Not recovered,Hispanic
+4534,Not recovered,Caucasian
+4535,Not recovered,Black
+4536,Recovering,Asian
+4537,Not recovered,Caucasian
+4538,Recovered,Black
+4539,Recovered,Asian
+4540,Not recovered,Hispanic
+4541,Recovering,Asian
+4542,Recovered,Caucasian
+4543,Recovering,Hispanic
+4544,Not recovered,Asian
+4545,Unknown,Asian
+4546,Recovering,Latino
+4547,Recovered,Caucasian
+4548,Not recovered,Asian
+4549,Recovering,Caucasian
+4550,Recovering,Hispanic
+4551,Unknown,Hispanic
+4552,Not recovered,Caucasian
+4553,Not recovered,Asian
+4554,Not recovered,Caucasian
+4555,Recovering,Hispanic
+4556,Not recovered,Hispanic
+4557,Recovered,Hispanic
+4558,Recovered,Caucasian
+4559,Not recovered,Black
+4560,Recovering,Asian
+4561,Recovered,Caucasian
+4562,Recovering,Black
+4563,Not recovered,Asian
+4564,Not recovered,Hispanic
+4565,Recovered,Asian
+4566,Recovered,Caucasian
+4567,Not recovered,Black
+4568,Recovering,Asian
+4569,Recovered,Caucasian
+4570,Recovering,Black
+4571,Not recovered,Asian
+4572,Unknown,Hispanic
+4573,Recovering,Asian
+4574,Recovered,Asian
+4575,Not recovered,Latino
+4576,Recovering,Caucasian
+4577,Recovering,Asian
+4578,Unknown,Caucasian
+4579,Not recovered,Hispanic
+4580,Not recovered,Hispanic
+4581,Not recovered,Caucasian
+4582,Recovering,Asian
+4583,Not recovered,Caucasian
+4584,Recovered,Hispanic
+4585,Recovered,Hispanic
+4586,Not recovered,Hispanic
+4587,Recovering,Caucasian
+4588,Recovered,Black
+4589,Recovering,Asian
+4590,Not recovered,Caucasian
+4591,Unknown,Black
+4592,Recovering,Asian
+4593,Recovered,Hispanic
+4594,Not recovered,Asian
+4595,Recovering,Caucasian
+4596,Recovering,Hispanic
+4597,Unknown,Asian
+4598,Not recovered,Asian
+4599,Not recovered,Latino
+4600,Not recovered,Caucasian
+4601,Recovering,Asian
+4602,Not recovered,Caucasian
+4603,Recovered,Hispanic
+4604,Recovered,Hispanic
+4605,Not recovered,Caucasian
+4606,Recovering,Asian
+4607,Recovered,Caucasian
+4608,Recovering,Hispanic
+4609,Not recovered,Hispanic
+4610,Not recovered,Hispanic
+4611,Recovered,Caucasian
+4612,Recovered,Black
+4613,Not recovered,Asian
+4614,Recovering,Caucasian
+4615,Recovered,Black
+4616,Recovering,Asian
+4617,Not recovered,Hispanic
+4618,Unknown,Asian
+4619,Recovering,Caucasian
+4620,Recovered,Black
+4621,Not recovered,Asian
+4622,Recovering,Caucasian
+4623,Recovering,Black
+4624,Unknown,Asian
+4625,Not recovered,Hispanic
+4626,Not recovered,Asian
+4627,Not recovered,Asian
+4628,Recovering,Latino
+4629,Not recovered,Caucasian
+4630,Recovered,Asian
+4631,Recovered,Caucasian
+4632,Not recovered,Hispanic
+4633,Recovering,Hispanic
+4634,Recovered,Caucasian
+4635,Recovering,Asian
+4636,Not recovered,Caucasian
+4637,Unknown,Hispanic
+4638,Recovering,Hispanic
+4639,Recovered,Hispanic
+4640,Not recovered,Caucasian
+4641,Recovering,Black
+4642,Recovering,Asian
+4643,Unknown,Caucasian
+4644,Not recovered,Black
+4645,Not recovered,Asian
+4646,Not recovered,Hispanic
+4647,Recovering,Asian
+4648,Not recovered,Caucasian
+4649,Recovered,Hispanic
+4650,Recovered,Asian
+4651,Not recovered,Asian
+4652,Recovering,Latino
+4653,Recovered,Caucasian
+4654,Recovering,Asian
+4655,Not recovered,Caucasian
+4656,Not recovered,Hispanic
+4657,Recovered,Hispanic
+4658,Recovered,Caucasian
+4659,Not recovered,Asian
+4660,Recovering,Caucasian
+4661,Recovered,Hispanic
+4662,Recovering,Hispanic
+4663,Not recovered,Hispanic
+4664,Unknown,Caucasian
+4665,Recovering,Black
+4666,Recovered,Asian
+4667,Not recovered,Caucasian
+4668,Recovering,Black
+4669,Recovering,Asian
+4670,Unknown,Hispanic
+4671,Not recovered,Asian
+4672,Not recovered,Caucasian
+4673,Not recovered,Black
+4674,Recovering,Asian
+4675,Not recovered,Caucasian
+4676,Recovered,Black
+4677,Recovered,Asian
+4678,Not recovered,Hispanic
+4679,Recovering,Asian
+4680,Recovered,Asian
+4681,Recovering,Latino
+4682,Not recovered,Caucasian
+4683,Unknown,Asian
+4684,Recovering,Caucasian
+4685,Recovered,Hispanic
+4686,Not recovered,Hispanic
+4687,Recovering,Caucasian
+4688,Recovering,Asian
+4689,Unknown,Caucasian
+4690,Not recovered,Hispanic
+4691,Not recovered,Hispanic
+4692,Not recovered,Hispanic
+4693,Recovering,Caucasian
+4694,Not recovered,Black
+4695,Recovered,Asian
+4696,Recovered,Caucasian
+4697,Not recovered,Black
+4698,Recovering,Asian
+4699,Recovered,Hispanic
+4700,Recovering,Asian
+4701,Not recovered,Caucasian
+4702,Not recovered,Hispanic
+4703,Recovered,Asian
+4704,Recovered,Asian
+4705,Not recovered,Latino
+4706,Recovering,Caucasian
+4707,Recovered,Asian
+4708,Recovering,Caucasian
+4709,Not recovered,Hispanic
+4710,Unknown,Hispanic
+4711,Recovering,Caucasian
+4712,Recovered,Asian
+4713,Not recovered,Caucasian
+4714,Recovering,Hispanic
+4715,Recovering,Hispanic
+4716,Unknown,Hispanic
+4717,Not recovered,Caucasian
+4718,Not recovered,Black
+4719,Not recovered,Asian
+4720,Recovering,Caucasian
+4721,Not recovered,Black
+4722,Recovered,Asian
+4723,Recovered,Hispanic
+4724,Not recovered,Asian
+4725,Recovering,Caucasian
+4726,Recovered,Black
+4727,Recovering,Asian
+4728,Not recovered,Caucasian
+4729,Unknown,Black
+4730,Recovering,Asian
+4731,Recovered,Hispanic
+4732,Not recovered,Asian
+4733,Recovering,Asian
+4734,Recovering,Latino
+4735,Unknown,Caucasian
+4736,Not recovered,Asian
+4737,Not recovered,Caucasian
+4738,Not recovered,Hispanic
+4739,Recovering,Hispanic
+4740,Not recovered,Caucasian
+4741,Recovered,Asian
+4742,Recovered,Caucasian
+4743,Not recovered,Hispanic
+4744,Recovering,Hispanic
+4745,Recovered,Hispanic
+4746,Recovering,Caucasian
+4747,Not recovered,Black
+4748,Not recovered,Asian
+4749,Recovered,Caucasian
+4750,Recovered,Black
+4751,Not recovered,Asian
+4752,Recovering,Hispanic
+4753,Recovered,Asian
+4754,Recovering,Caucasian
+4755,Not recovered,Hispanic
+4756,Unknown,Asian
+4757,Recovering,Asian
+4758,Recovered,Latino
+4759,Not recovered,Caucasian
+4760,Recovering,Asian
+4761,Recovering,Caucasian
+4762,Unknown,Hispanic
+4763,Not recovered,Hispanic
+4764,Not recovered,Caucasian
+4765,Not recovered,Asian
+4766,Recovering,Caucasian
+4767,Not recovered,Hispanic
+4768,Recovered,Hispanic
+4769,Recovered,Hispanic
+4770,Not recovered,Caucasian
+4771,Recovering,Black
+4772,Recovered,Asian
+4773,Recovering,Caucasian
+4774,Not recovered,Black
+4775,Unknown,Asian
+4776,Recovering,Hispanic
+4777,Recovered,Asian
+4778,Not recovered,Caucasian
+4779,Recovering,Black
+4780,Recovering,Asian
+4781,Unknown,Caucasian
+4782,Not recovered,Black
+4783,Not recovered,Asian
+4784,Not recovered,Hispanic
+4785,Recovering,Asian
+4786,Not recovered,Asian
+4787,Recovered,Latino
+4788,Recovered,Caucasian
+4789,Not recovered,Asian
+4790,Recovering,Caucasian
+4791,Recovered,Hispanic
+4792,Recovering,Hispanic
+4793,Not recovered,Caucasian
+4794,Not recovered,Asian
+4795,Recovered,Caucasian
+4796,Recovered,Hispanic
+4797,Not recovered,Hispanic
+4798,Recovering,Hispanic
+4799,Recovered,Caucasian
+4800,Recovering,Black
+4801,Not recovered,Asian
+4802,Unknown,Caucasian
+4803,Recovering,Black
+4804,Recovered,Asian
+4805,Not recovered,Hispanic
+4806,Recovering,Asian
+4807,Recovering,Caucasian
+4808,Unknown,Hispanic
+4809,Not recovered,Asian
+4810,Not recovered,Asian
+4811,Not recovered,Latino
+4812,Recovering,Caucasian
+4813,Not recovered,Asian
+4814,Recovered,Caucasian
+4815,Recovered,Hispanic
+4816,Not recovered,Hispanic
+4817,Recovering,Caucasian
+4818,Recovered,Asian
+4819,Recovering,Caucasian
+4820,Not recovered,Hispanic
+4821,Unknown,Hispanic
+4822,Recovering,Hispanic
+4823,Recovered,Caucasian
+4824,Not recovered,Black
+4825,Recovering,Asian
+4826,Recovering,Caucasian
+4827,Unknown,Black
+4828,Not recovered,Asian
+4829,Not recovered,Hispanic
+4830,Not recovered,Asian
+4831,Recovering,Caucasian
+4832,Not recovered,Black
+4833,Recovered,Asian
+4834,Recovered,Caucasian
+4835,Not recovered,Black
+4836,Recovering,Asian
+4837,Recovered,Hispanic
+4838,Recovering,Asian
+4839,Not recovered,Asian
+4840,Not recovered,Latino
+4841,Recovered,Caucasian
+4842,Recovered,Asian
+4843,Not recovered,Caucasian
+4844,Recovering,Hispanic
+4845,Recovered,Hispanic
+4846,Recovering,Caucasian
+4847,Not recovered,Asian
+4848,Unknown,Caucasian
+4849,Recovering,Hispanic
+4850,Recovered,Hispanic
+4851,Not recovered,Hispanic
+4852,Recovering,Caucasian
+4853,Recovering,Black
+4854,Unknown,Asian
+4855,Not recovered,Caucasian
+4856,Not recovered,Black
+4857,Not recovered,Asian
+4858,Recovering,Hispanic
+4859,Not recovered,Asian
+4860,Recovered,Caucasian
+4861,Recovered,Hispanic
+4862,Not recovered,Asian
+4863,Recovering,Asian
+4864,Recovered,Latino
+4865,Recovering,Caucasian
+4866,Not recovered,Asian
+4867,Unknown,Caucasian
+4868,Recovering,Hispanic
+4869,Recovered,Hispanic
+4870,Not recovered,Caucasian
+4871,Recovering,Asian
+4872,Recovering,Caucasian
+4873,Unknown,Hispanic
+4874,Not recovered,Hispanic
+4875,Not recovered,Hispanic
+4876,Not recovered,Caucasian
+4877,Recovering,Black
+4878,Not recovered,Asian
+4879,Recovered,Caucasian
+4880,Recovered,Black
+4881,Not recovered,Asian
+4882,Recovering,Hispanic
+4883,Recovered,Asian
+4884,Recovering,Caucasian
+4885,Not recovered,Black
+4886,Not recovered,Asian
+4887,Recovered,Caucasian
+4888,Recovered,Black
+4889,Not recovered,Asian
+4890,Recovering,Hispanic
+4891,Recovered,Asian
+4892,Recovering,Asian
+4893,Not recovered,Latino
+4894,Unknown,Caucasian
+4895,Recovering,Asian
+4896,Recovered,Caucasian
+4897,Not recovered,Hispanic
+4898,Recovering,Hispanic
+4899,Recovering,Caucasian
+4900,Unknown,Asian
+4901,Not recovered,Caucasian
+4902,Not recovered,Hispanic
+4903,Not recovered,Hispanic
+4904,Recovering,Hispanic
+4905,Not recovered,Caucasian
+4906,Recovered,Black
+4907,Recovered,Asian
+4908,Not recovered,Caucasian
+4909,Recovering,Black
+4910,Recovered,Asian
+4911,Recovering,Hispanic
+4912,Not recovered,Asian
+4913,Unknown,Caucasian
+4914,Recovering,Hispanic
+4915,Recovered,Asian
+4916,Not recovered,Asian
+4917,Recovering,Latino
+4918,Recovering,Caucasian
+4919,Unknown,Asian
+4920,Not recovered,Caucasian
+4921,Not recovered,Hispanic
+4922,Not recovered,Hispanic
+4923,Recovering,Caucasian
+4924,Not recovered,Asian
+4925,Recovered,Caucasian
+4926,Recovered,Hispanic
+4927,Not recovered,Hispanic
+4928,Recovering,Hispanic
+4929,Recovered,Caucasian
+4930,Recovering,Black
+4931,Not recovered,Asian
+4932,Not recovered,Caucasian
+4933,Recovered,Black
+4934,Recovered,Asian
+4935,Not recovered,Hispanic
+4936,Recovering,Asian
+4937,Recovered,Caucasian
+4938,Recovering,Black
+4939,Not recovered,Asian
+4940,Unknown,Caucasian
+4941,Recovering,Black
+4942,Recovered,Asian
+4943,Not recovered,Hispanic
+4944,Recovering,Asian
+4945,Recovering,Asian
+4946,Unknown,Latino
+4947,Not recovered,Caucasian
+4948,Not recovered,Asian
+4949,Not recovered,Caucasian
+4950,Recovering,Hispanic
+4951,Not recovered,Hispanic
+4952,Recovered,Caucasian
+4953,Recovered,Asian
+4954,Not recovered,Caucasian
+4955,Recovering,Hispanic
+4956,Recovered,Hispanic
+4957,Recovering,Hispanic
+4958,Not recovered,Caucasian
+4959,Unknown,Black
+4960,Recovering,Asian
+4961,Recovered,Caucasian
+4962,Not recovered,Black
+4963,Recovering,Asian
+4964,Recovering,Hispanic
+4965,Unknown,Asian
+4966,Not recovered,Caucasian
+4967,Not recovered,Hispanic
+4968,Not recovered,Asian
+4969,Recovering,Asian
+4970,Not recovered,Latino
+4971,Recovered,Caucasian
+4972,Recovered,Asian
+4973,Not recovered,Caucasian
+4974,Recovering,Hispanic
+4975,Recovered,Hispanic
+4976,Recovering,Caucasian
+4977,Not recovered,Asian
+4978,Not recovered,Caucasian
+4979,Recovered,Hispanic
+4980,Recovered,Hispanic
+4981,Not recovered,Hispanic
+4982,Recovering,Caucasian
+4983,Recovered,Black
+4984,Recovering,Asian
+4985,Not recovered,Caucasian
+4986,Unknown,Black
+4987,Recovering,Asian
+4988,Recovered,Hispanic
+4989,Not recovered,Asian
+4990,Recovering,Caucasian
+4991,Recovering,Black
+4992,Unknown,Asian
+4993,Not recovered,Caucasian
+4994,Not recovered,Black
+4995,Not recovered,Asian
+4996,Recovering,Hispanic
+4997,Not recovered,Asian
+4998,Recovered,Asian
+4999,Recovered,Latino
+5000,Not recovered,Caucasian
